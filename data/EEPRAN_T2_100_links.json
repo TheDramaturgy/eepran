@@ -1,0 +1,1462 @@
+{
+    "links": [
+        {
+            "Node1": 0,
+            "Node2": 4913,
+            "Delay": 0.003,
+            "PortCapacity": 100,
+            "NumLinks": 10,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 0,
+            "Node2": 5314,
+            "Delay": 0.0018,
+            "PortCapacity": 100,
+            "NumLinks": 10,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 0,
+            "Node2": 5523,
+            "Delay": 0.0008,
+            "PortCapacity": 100,
+            "NumLinks": 10,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 0,
+            "Node2": 5525,
+            "Delay": 0.0012,
+            "PortCapacity": 100,
+            "NumLinks": 10,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 0,
+            "Node2": 5712,
+            "Delay": 0.0004,
+            "PortCapacity": 100,
+            "NumLinks": 10,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4913,
+            "Node2": 3714,
+            "Delay": 0.006600000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4913,
+            "Node2": 4434,
+            "Delay": 0.00575,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4913,
+            "Node2": 5297,
+            "Delay": 0.00475,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5314,
+            "Node2": 3416,
+            "Delay": 0.0055000000000000005,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5314,
+            "Node2": 3522,
+            "Delay": 0.0048,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5314,
+            "Node2": 5315,
+            "Delay": 0.0053,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5523,
+            "Node2": 4820,
+            "Delay": 0.0038,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5523,
+            "Node2": 7326,
+            "Delay": 0.00585,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5523,
+            "Node2": 7672,
+            "Delay": 0.00615,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5525,
+            "Node2": 4696,
+            "Delay": 0.00495,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5712,
+            "Node2": 4812,
+            "Delay": 0.006500000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3714,
+            "Node2": 4183,
+            "Delay": 0.0067,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3714,
+            "Node2": 5639,
+            "Delay": 0.00555,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4434,
+            "Node2": 3753,
+            "Delay": 0.00585,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4434,
+            "Node2": 4432,
+            "Delay": 0.0033000000000000004,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4434,
+            "Node2": 5455,
+            "Delay": 0.00515,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5297,
+            "Node2": 3713,
+            "Delay": 0.00495,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5297,
+            "Node2": 6077,
+            "Delay": 0.0058,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5297,
+            "Node2": 6188,
+            "Delay": 0.0043,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3416,
+            "Node2": 3139,
+            "Delay": 0.0048,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3416,
+            "Node2": 3926,
+            "Delay": 0.005699999999999999,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3416,
+            "Node2": 5771,
+            "Delay": 0.0033000000000000004,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3522,
+            "Node2": 4400,
+            "Delay": 0.0017499999999999998,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3522,
+            "Node2": 4972,
+            "Delay": 0.0025,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3522,
+            "Node2": 5317,
+            "Delay": 0.0042,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5315,
+            "Node2": 4402,
+            "Delay": 0.00505,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5315,
+            "Node2": 6415,
+            "Delay": 0.00475,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4820,
+            "Node2": 4912,
+            "Delay": 0.0034999999999999996,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 7326,
+            "Node2": 5376,
+            "Delay": 0.0009,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 7326,
+            "Node2": 6724,
+            "Delay": 0.0043,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 7326,
+            "Node2": 7623,
+            "Delay": 0.0043,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 7672,
+            "Node2": 5946,
+            "Delay": 0.0023,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 7672,
+            "Node2": 7521,
+            "Delay": 0.0067,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 7672,
+            "Node2": 7758,
+            "Delay": 0.005450000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4696,
+            "Node2": 5213,
+            "Delay": 0.0053,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4812,
+            "Node2": 6074,
+            "Delay": 0.004050000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4812,
+            "Node2": 6901,
+            "Delay": 0.0054,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4812,
+            "Node2": 6903,
+            "Delay": 0.006350000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4183,
+            "Node2": 5316,
+            "Delay": 0.00525,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5639,
+            "Node2": 5216,
+            "Delay": 0.0021,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3753,
+            "Node2": 2477,
+            "Delay": 0.003,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3753,
+            "Node2": 4518,
+            "Delay": 0.00485,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3753,
+            "Node2": 5451,
+            "Delay": 0.0059,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4432,
+            "Node2": 4813,
+            "Delay": 0.0028000000000000004,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5455,
+            "Node2": 5240,
+            "Delay": 0.0058,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3713,
+            "Node2": 4436,
+            "Delay": 0.0027,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3713,
+            "Node2": 5379,
+            "Delay": 0.00395,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3713,
+            "Node2": 6845,
+            "Delay": 0.0043,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6077,
+            "Node2": 5377,
+            "Delay": 0.0031,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6077,
+            "Node2": 6512,
+            "Delay": 0.00305,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6077,
+            "Node2": 6900,
+            "Delay": 0.0055000000000000005,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6188,
+            "Node2": 5885,
+            "Delay": 0.0015,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3139,
+            "Node2": 6076,
+            "Delay": 0.0051,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3139,
+            "Node2": 6816,
+            "Delay": 0.0059499999999999996,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3139,
+            "Node2": 6909,
+            "Delay": 0.00445,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3926,
+            "Node2": 6241,
+            "Delay": 0.00335,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5771,
+            "Node2": 5600,
+            "Delay": 0.0035499999999999998,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5771,
+            "Node2": 6735,
+            "Delay": 0.0047,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5771,
+            "Node2": 7625,
+            "Delay": 0.00425,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4400,
+            "Node2": 5318,
+            "Delay": 0.0053,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4972,
+            "Node2": 3211,
+            "Delay": 0.00495,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4972,
+            "Node2": 7511,
+            "Delay": 0.0046500000000000005,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4972,
+            "Node2": 7541,
+            "Delay": 0.00505,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5317,
+            "Node2": 5083,
+            "Delay": 0.00525,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4402,
+            "Node2": 5637,
+            "Delay": 0.0013000000000000002,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6415,
+            "Node2": 5815,
+            "Delay": 0.005450000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4912,
+            "Node2": 5942,
+            "Delay": 0.00495,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5376,
+            "Node2": 6078,
+            "Delay": 0.0032,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6724,
+            "Node2": 6245,
+            "Delay": 0.006,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 7623,
+            "Node2": 6373,
+            "Delay": 0.00455,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5946,
+            "Node2": 6093,
+            "Delay": 0.0066500000000000005,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 7521,
+            "Node2": 3954,
+            "Delay": 0.00495,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 7521,
+            "Node2": 4927,
+            "Delay": 0.005350000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 7521,
+            "Node2": 5394,
+            "Delay": 0.0047,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 7758,
+            "Node2": 5957,
+            "Delay": 0.0051,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 7758,
+            "Node2": 6736,
+            "Delay": 0.0069,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 7758,
+            "Node2": 7190,
+            "Delay": 0.0051,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5213,
+            "Node2": 5890,
+            "Delay": 0.00625,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6074,
+            "Node2": 5945,
+            "Delay": 0.0028000000000000004,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6901,
+            "Node2": 6242,
+            "Delay": 0.0049,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6903,
+            "Node2": 6075,
+            "Delay": 0.005600000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5316,
+            "Node2": 5713,
+            "Delay": 0.0045000000000000005,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5216,
+            "Node2": 5880,
+            "Delay": 0.00375,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 2477,
+            "Node2": 5509,
+            "Delay": 0.00455,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4518,
+            "Node2": 5299,
+            "Delay": 0.00365,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5451,
+            "Node2": 5239,
+            "Delay": 0.00505,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5451,
+            "Node2": 7076,
+            "Delay": 0.005200000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5451,
+            "Node2": 7146,
+            "Delay": 0.0055000000000000005,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4813,
+            "Node2": 5312,
+            "Delay": 0.00375,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5240,
+            "Node2": 6029,
+            "Delay": 0.0045000000000000005,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4436,
+            "Node2": 5989,
+            "Delay": 0.006600000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4436,
+            "Node2": 6659,
+            "Delay": 0.0046,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4436,
+            "Node2": 7298,
+            "Delay": 0.0032,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5379,
+            "Node2": 5991,
+            "Delay": 0.0062,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6845,
+            "Node2": 6037,
+            "Delay": 0.00455,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5712,
+            "Node2": 3714,
+            "Delay": 0.0032,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5712,
+            "Node2": 3416,
+            "Delay": 0.00395,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5525,
+            "Node2": 3522,
+            "Delay": 0.005450000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5525,
+            "Node2": 5315,
+            "Delay": 0.005350000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5712,
+            "Node2": 4820,
+            "Delay": 0.00345,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5712,
+            "Node2": 7326,
+            "Delay": 0.0053,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5712,
+            "Node2": 7672,
+            "Delay": 0.00565,
+            "PortCapacity": 100,
+            "NumLinks": 8,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5315,
+            "Node2": 4183,
+            "Delay": 0.0046500000000000005,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5315,
+            "Node2": 5639,
+            "Delay": 0.0011,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4820,
+            "Node2": 5771,
+            "Delay": 0.00505,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5315,
+            "Node2": 4400,
+            "Delay": 0.00105,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4696,
+            "Node2": 4972,
+            "Delay": 0.003,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4696,
+            "Node2": 5317,
+            "Delay": 0.00475,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4696,
+            "Node2": 4402,
+            "Delay": 0.0058,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4696,
+            "Node2": 6415,
+            "Delay": 0.005450000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3714,
+            "Node2": 4912,
+            "Delay": 0.005,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4820,
+            "Node2": 5376,
+            "Delay": 0.0048,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5315,
+            "Node2": 5213,
+            "Delay": 0.0046,
+            "PortCapacity": 100,
+            "NumLinks": 4,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4400,
+            "Node2": 5316,
+            "Delay": 0.00105,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4400,
+            "Node2": 5216,
+            "Delay": 0.0021,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5455,
+            "Node2": 2477,
+            "Delay": 0.0037,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5317,
+            "Node2": 4518,
+            "Delay": 0.0037,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5455,
+            "Node2": 5451,
+            "Delay": 0.00495,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5455,
+            "Node2": 4813,
+            "Delay": 0.0034999999999999996,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4432,
+            "Node2": 5240,
+            "Delay": 0.0051,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6188,
+            "Node2": 4436,
+            "Delay": 0.0028000000000000004,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6188,
+            "Node2": 5379,
+            "Delay": 0.0033000000000000004,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6188,
+            "Node2": 6845,
+            "Delay": 0.0039000000000000003,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6074,
+            "Node2": 5377,
+            "Delay": 0.00415,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6903,
+            "Node2": 6512,
+            "Delay": 0.0021,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6903,
+            "Node2": 6900,
+            "Delay": 0.00215,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 7623,
+            "Node2": 6076,
+            "Delay": 0.002,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 3926,
+            "Node2": 6816,
+            "Delay": 0.00505,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6074,
+            "Node2": 6241,
+            "Delay": 0.0013000000000000002,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5376,
+            "Node2": 5600,
+            "Delay": 0.006750000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5317,
+            "Node2": 5318,
+            "Delay": 0.0006,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5317,
+            "Node2": 3211,
+            "Delay": 0.00425,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5317,
+            "Node2": 7511,
+            "Delay": 0.0035499999999999998,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5317,
+            "Node2": 7541,
+            "Delay": 0.0043,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6415,
+            "Node2": 5637,
+            "Delay": 0.00245,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4400,
+            "Node2": 5815,
+            "Delay": 0.00115,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6074,
+            "Node2": 5942,
+            "Delay": 0.005350000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4912,
+            "Node2": 6078,
+            "Delay": 0.00395,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4912,
+            "Node2": 6245,
+            "Delay": 0.00105,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6074,
+            "Node2": 6373,
+            "Delay": 0.0016,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5376,
+            "Node2": 6093,
+            "Delay": 0.00345,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 4400,
+            "Node2": 5890,
+            "Delay": 0.0021,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6903,
+            "Node2": 5945,
+            "Delay": 0.00515,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6903,
+            "Node2": 6242,
+            "Delay": 0.00395,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6188,
+            "Node2": 6075,
+            "Delay": 0.0047,
+            "PortCapacity": 100,
+            "NumLinks": 2,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5318,
+            "Node2": 5713,
+            "Delay": 0.0013000000000000002,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5318,
+            "Node2": 5880,
+            "Delay": 0.0016,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5083,
+            "Node2": 5299,
+            "Delay": 0.0004,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6845,
+            "Node2": 5239,
+            "Delay": 0.0046,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6845,
+            "Node2": 7076,
+            "Delay": 0.00445,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6845,
+            "Node2": 7146,
+            "Delay": 0.00415,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 2477,
+            "Node2": 6029,
+            "Delay": 0.0019500000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6075,
+            "Node2": 5989,
+            "Delay": 0.00215,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6845,
+            "Node2": 6659,
+            "Delay": 0.0040999999999999995,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6845,
+            "Node2": 7298,
+            "Delay": 0.0027,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 6075,
+            "Node2": 5991,
+            "Delay": 0.004050000000000001,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        },
+        {
+            "Node1": 5885,
+            "Node2": 6037,
+            "Delay": 0.0012,
+            "PortCapacity": 100,
+            "NumLinks": 1,
+            "PluggableTransceiverPower": 4.5,
+            "SwitchPortPower": 14
+        }
+    ]
+}

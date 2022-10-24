@@ -1,0 +1,4100 @@
+{
+    "nodes": [
+        {
+            "Number": 5525,
+            "Hardwares": [
+                2,
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5714,
+            "Hardwares": [
+                2,
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6191,
+            "Hardwares": [
+                2,
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6333,
+            "Hardwares": [
+                2,
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7226,
+            "Hardwares": [
+                2,
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7314,
+            "Hardwares": [
+                2,
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7358,
+            "Hardwares": [
+                2,
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7499,
+            "Hardwares": [
+                1,
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7500,
+            "Hardwares": [
+                1,
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7615,
+            "Hardwares": [
+                1,
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 3416,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 3522,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 3714,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4696,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5318,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5815,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4434,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6755,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4820,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6337,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7952,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4912,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6241,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6810,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4812,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5376,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5891,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4913,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5297,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6508,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6903,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 3139,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7756,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7793,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5314,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 3926,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6091,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6389,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4400,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4972,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5216,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4183,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5213,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7560,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4402,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6832,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 3211,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5299,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6176,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5315,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 3753,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4432,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5455,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 3713,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5885,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6188,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5316,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5637,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5639,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5523,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7757,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5377,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6242,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6900,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5379,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5712,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7521,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7758,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5600,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7407,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5713,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5942,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5312,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5945,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5946,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5771,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7287,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7606,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6074,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6076,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6735,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7460,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5890,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6244,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6078,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6256,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6631,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6093,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7332,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7522,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5317,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5880,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5979,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5981,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6040,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6193,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6194,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6415,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4518,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6179,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6779,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5083,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 2477,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4813,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7925,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6042,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5240,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5451,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6029,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5239,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7295,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7941,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5655,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4436,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6845,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7299,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5989,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7656,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5991,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6116,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6414,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6277,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6041,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 3954,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6391,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7125,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6075,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6037,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6077,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6130,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6245,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4927,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5394,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6392,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5957,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6736,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7190,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5903,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5602,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7408,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7821,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6178,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5834,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5833,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6243,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6373,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6375,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6629,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5149,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5353,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6255,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6374,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6509,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 4926,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5546,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6202,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5599,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6336,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6510,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6630,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5769,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7026,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7392,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5332,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6734,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5768,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6058,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5958,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5879,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6325,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6413,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6472,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6540,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6586,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6589,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6692,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6027,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5509,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6028,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6321,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6030,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6129,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6999,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7142,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6131,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6463,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6661,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6134,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7342,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6322,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6548,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7422,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7693,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6331,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6659,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6132,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6186,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6287,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6585,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6512,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6745,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6290,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6573,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6578,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6466,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6323,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6361,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6732,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6816,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6511,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6725,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6623,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6429,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6724,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6817,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6895,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6909,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6910,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6478,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7042,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 3835,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7105,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7595,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7107,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7124,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7172,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6572,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6549,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6574,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6662,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6726,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6784,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7050,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7461,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7492,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7329,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6899,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6727,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.25,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7462,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.2,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5902,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.23,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 5905,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.22,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7503,
+            "Hardwares": [
+                1
+            ],
+            "StaticPercentage": 0.24,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6588,
+            "Hardwares": [
+                2
+            ],
+            "StaticPercentage": 0.21,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6875,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6904,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7268,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6345,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7269,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7391,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7059,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7582,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7670,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7846,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6579,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6683,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6684,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6691,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6694,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6783,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6693,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6957,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6842,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6870,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6930,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6778,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6844,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6843,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7076,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7143,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7146,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6869,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6951,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6873,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7196,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6948,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6998,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7297,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7298,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7283,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7373,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6872,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7186,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6902,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7239,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6901,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7423,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6950,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6874,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7015,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7018,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7017,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7858,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7651,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7555,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7048,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7123,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7023,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7164,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7049,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7557,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7625,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7692,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7668,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7913,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7740,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7874,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7882,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7774,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7773,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7785,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7093,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7218,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7219,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7296,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7121,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6986,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 6988,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7784,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7939,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7122,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7327,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7809,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7928,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7099,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7070,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7100,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7326,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7808,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7732,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7165,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7201,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7168,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7102,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7198,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7068,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7169,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7103,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7311,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7220,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7308,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7264,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7355,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7374,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7341,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7384,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7420,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7309,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7351,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7313,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7759,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7375,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7389,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7530,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7562,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7443,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7658,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7225,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7187,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7388,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7241,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7284,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7561,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7385,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7266,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7437,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7439,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7440,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7718,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7455,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7458,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7404,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7369,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7337,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7356,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7457,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7783,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7853,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7623,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7877,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7672,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7483,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7471,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7484,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7531,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7498,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7069,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7357,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7674,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7518,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7517,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7413,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7441,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7442,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7552,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7820,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7519,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7510,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7655,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7506,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7545,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7511,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7584,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7539,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7592,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7603,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7541,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7570,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7540,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7614,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7553,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7657,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7642,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7721,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7664,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7665,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7666,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7678,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7624,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7647,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7735,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7738,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7685,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7786,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7604,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7605,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7699,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7742,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7673,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7659,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7667,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7643,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7749,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7778,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7750,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7857,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7739,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7705,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7706,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7715,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7725,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7815,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7771,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7903,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7940,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7826,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7964,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7792,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7680,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7779,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        },
+        {
+            "Number": 7712,
+            "Hardwares": [],
+            "StaticPercentage": 0.0,
+            "BaseStations": [
+                1
+            ]
+        }
+    ]
+}

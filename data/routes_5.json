@@ -1,0 +1,637 @@
+[
+{
+    "identifier": 1,
+    "source": "node0",
+    "target": "node1_bs1",
+    "sequence": [
+        "node0",
+        "node0",
+        "node1_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node0",
+            "node1"
+        ],
+        [
+            "node1",
+            "node1_bs1"
+        ]
+    ],
+    "midhaul": [],
+    "backhaul": [],
+    "delay_fronthaul": 0.0018,
+    "delay_midhaul": 0,
+    "delay_backhaul": 0
+},{
+    "identifier": 2,
+    "source": "node0",
+    "target": "node1_bs1",
+    "sequence": [
+        "node0",
+        "node1_hw1",
+        "node1_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node1",
+            "node1_bs1"
+        ]
+    ],
+    "midhaul": [
+        [
+            "node0",
+            "node1"
+        ],
+        [
+            "node1",
+            "node1_hw1"
+        ]
+    ],
+    "backhaul": [],
+    "delay_fronthaul": 0.0,
+    "delay_midhaul": 0.0018,
+    "delay_backhaul": 0
+},{
+    "identifier": 3,
+    "source": "node0",
+    "target": "node1_bs1",
+    "sequence": [
+        "node0",
+        "node1_hw2",
+        "node1_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node1",
+            "node1_bs1"
+        ]
+    ],
+    "midhaul": [
+        [
+            "node0",
+            "node1"
+        ],
+        [
+            "node1",
+            "node1_hw2"
+        ]
+    ],
+    "backhaul": [],
+    "delay_fronthaul": 0.0,
+    "delay_midhaul": 0.0018,
+    "delay_backhaul": 0
+},{
+    "identifier": 4,
+    "source": "node0",
+    "target": "node2_bs1",
+    "sequence": [
+        "node0",
+        "node0",
+        "node2_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node0",
+            "node2"
+        ],
+        [
+            "node2",
+            "node2_bs1"
+        ]
+    ],
+    "midhaul": [],
+    "backhaul": [],
+    "delay_fronthaul": 0.00265,
+    "delay_midhaul": 0,
+    "delay_backhaul": 0
+},{
+    "identifier": 5,
+    "source": "node0",
+    "target": "node2_bs1",
+    "sequence": [
+        "node0",
+        "node2_hw1",
+        "node2_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node2",
+            "node2_bs1"
+        ]
+    ],
+    "midhaul": [
+        [
+            "node0",
+            "node2"
+        ],
+        [
+            "node2",
+            "node2_hw1"
+        ]
+    ],
+    "backhaul": [],
+    "delay_fronthaul": 0.0,
+    "delay_midhaul": 0.00265,
+    "delay_backhaul": 0
+},{
+    "identifier": 6,
+    "source": "node0",
+    "target": "node2_bs1",
+    "sequence": [
+        "node0",
+        "node2_hw2",
+        "node2_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node2",
+            "node2_bs1"
+        ]
+    ],
+    "midhaul": [
+        [
+            "node0",
+            "node2"
+        ],
+        [
+            "node2",
+            "node2_hw2"
+        ]
+    ],
+    "backhaul": [],
+    "delay_fronthaul": 0.0,
+    "delay_midhaul": 0.00265,
+    "delay_backhaul": 0
+},{
+    "identifier": 7,
+    "source": "node0",
+    "target": "node3_bs1",
+    "sequence": [
+        "node0",
+        "node0",
+        "node3_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node0",
+            "node2"
+        ],
+        [
+            "node2",
+            "node3"
+        ],
+        [
+            "node3",
+            "node3_bs1"
+        ]
+    ],
+    "midhaul": [],
+    "backhaul": [],
+    "delay_fronthaul": 0.009300000000000001,
+    "delay_midhaul": 0,
+    "delay_backhaul": 0
+},{
+    "identifier": 8,
+    "source": "node0",
+    "target": "node3_bs1",
+    "sequence": [
+        "node0",
+        "node2_hw1",
+        "node3_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node2",
+            "node3"
+        ],
+        [
+            "node3",
+            "node3_bs1"
+        ]
+    ],
+    "midhaul": [
+        [
+            "node0",
+            "node2"
+        ],
+        [
+            "node2",
+            "node2_hw1"
+        ]
+    ],
+    "backhaul": [],
+    "delay_fronthaul": 0.0066500000000000005,
+    "delay_midhaul": 0.00265,
+    "delay_backhaul": 0
+},{
+    "identifier": 9,
+    "source": "node0",
+    "target": "node3_bs1",
+    "sequence": [
+        "node0",
+        "node2_hw2",
+        "node3_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node2",
+            "node3"
+        ],
+        [
+            "node3",
+            "node3_bs1"
+        ]
+    ],
+    "midhaul": [
+        [
+            "node0",
+            "node2"
+        ],
+        [
+            "node2",
+            "node2_hw2"
+        ]
+    ],
+    "backhaul": [],
+    "delay_fronthaul": 0.0066500000000000005,
+    "delay_midhaul": 0.00265,
+    "delay_backhaul": 0
+},{
+    "identifier": 10,
+    "source": "node0",
+    "target": "node3_bs1",
+    "sequence": [
+        "node0",
+        "node0",
+        "node3_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node0",
+            "node1"
+        ],
+        [
+            "node1",
+            "node3"
+        ],
+        [
+            "node3",
+            "node3_bs1"
+        ]
+    ],
+    "midhaul": [],
+    "backhaul": [],
+    "delay_fronthaul": 0.0063999999999999994,
+    "delay_midhaul": 0,
+    "delay_backhaul": 0
+},{
+    "identifier": 11,
+    "source": "node0",
+    "target": "node3_bs1",
+    "sequence": [
+        "node0",
+        "node1_hw1",
+        "node3_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node1",
+            "node3"
+        ],
+        [
+            "node3",
+            "node3_bs1"
+        ]
+    ],
+    "midhaul": [
+        [
+            "node0",
+            "node1"
+        ],
+        [
+            "node1",
+            "node1_hw1"
+        ]
+    ],
+    "backhaul": [],
+    "delay_fronthaul": 0.0046,
+    "delay_midhaul": 0.0018,
+    "delay_backhaul": 0
+},{
+    "identifier": 12,
+    "source": "node0",
+    "target": "node3_bs1",
+    "sequence": [
+        "node0",
+        "node1_hw2",
+        "node3_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node1",
+            "node3"
+        ],
+        [
+            "node3",
+            "node3_bs1"
+        ]
+    ],
+    "midhaul": [
+        [
+            "node0",
+            "node1"
+        ],
+        [
+            "node1",
+            "node1_hw2"
+        ]
+    ],
+    "backhaul": [],
+    "delay_fronthaul": 0.0046,
+    "delay_midhaul": 0.0018,
+    "delay_backhaul": 0
+},{
+    "identifier": 13,
+    "source": "node0",
+    "target": "node4_bs1",
+    "sequence": [
+        "node0",
+        "node0",
+        "node4_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node0",
+            "node2"
+        ],
+        [
+            "node2",
+            "node4"
+        ],
+        [
+            "node4",
+            "node4_bs1"
+        ]
+    ],
+    "midhaul": [],
+    "backhaul": [],
+    "delay_fronthaul": 0.00905,
+    "delay_midhaul": 0,
+    "delay_backhaul": 0
+},{
+    "identifier": 14,
+    "source": "node0",
+    "target": "node4_bs1",
+    "sequence": [
+        "node0",
+        "node2_hw1",
+        "node4_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node2",
+            "node4"
+        ],
+        [
+            "node4",
+            "node4_bs1"
+        ]
+    ],
+    "midhaul": [
+        [
+            "node0",
+            "node2"
+        ],
+        [
+            "node2",
+            "node2_hw1"
+        ]
+    ],
+    "backhaul": [],
+    "delay_fronthaul": 0.0064,
+    "delay_midhaul": 0.00265,
+    "delay_backhaul": 0
+},{
+    "identifier": 15,
+    "source": "node0",
+    "target": "node4_bs1",
+    "sequence": [
+        "node0",
+        "node2_hw2",
+        "node4_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node2",
+            "node4"
+        ],
+        [
+            "node4",
+            "node4_bs1"
+        ]
+    ],
+    "midhaul": [
+        [
+            "node0",
+            "node2"
+        ],
+        [
+            "node2",
+            "node2_hw2"
+        ]
+    ],
+    "backhaul": [],
+    "delay_fronthaul": 0.0064,
+    "delay_midhaul": 0.00265,
+    "delay_backhaul": 0
+},{
+    "identifier": 16,
+    "source": "node0",
+    "target": "node4_bs1",
+    "sequence": [
+        "node0",
+        "node0",
+        "node4_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node0",
+            "node1"
+        ],
+        [
+            "node1",
+            "node4"
+        ],
+        [
+            "node4",
+            "node4_bs1"
+        ]
+    ],
+    "midhaul": [],
+    "backhaul": [],
+    "delay_fronthaul": 0.0071,
+    "delay_midhaul": 0,
+    "delay_backhaul": 0
+},{
+    "identifier": 17,
+    "source": "node0",
+    "target": "node4_bs1",
+    "sequence": [
+        "node0",
+        "node1_hw1",
+        "node4_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node1",
+            "node4"
+        ],
+        [
+            "node4",
+            "node4_bs1"
+        ]
+    ],
+    "midhaul": [
+        [
+            "node0",
+            "node1"
+        ],
+        [
+            "node1",
+            "node1_hw1"
+        ]
+    ],
+    "backhaul": [],
+    "delay_fronthaul": 0.0053,
+    "delay_midhaul": 0.0018,
+    "delay_backhaul": 0
+},{
+    "identifier": 18,
+    "source": "node0",
+    "target": "node4_bs1",
+    "sequence": [
+        "node0",
+        "node1_hw2",
+        "node4_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node1",
+            "node4"
+        ],
+        [
+            "node4",
+            "node4_bs1"
+        ]
+    ],
+    "midhaul": [
+        [
+            "node0",
+            "node1"
+        ],
+        [
+            "node1",
+            "node1_hw2"
+        ]
+    ],
+    "backhaul": [],
+    "delay_fronthaul": 0.0053,
+    "delay_midhaul": 0.0018,
+    "delay_backhaul": 0
+},{
+    "identifier": 19,
+    "source": "node0",
+    "target": "node5_bs1",
+    "sequence": [
+        "node0",
+        "node0",
+        "node5_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node0",
+            "node1"
+        ],
+        [
+            "node1",
+            "node5"
+        ],
+        [
+            "node5",
+            "node5_bs1"
+        ]
+    ],
+    "midhaul": [],
+    "backhaul": [],
+    "delay_fronthaul": 0.00655,
+    "delay_midhaul": 0,
+    "delay_backhaul": 0
+},{
+    "identifier": 20,
+    "source": "node0",
+    "target": "node5_bs1",
+    "sequence": [
+        "node0",
+        "node1_hw1",
+        "node5_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node1",
+            "node5"
+        ],
+        [
+            "node5",
+            "node5_bs1"
+        ]
+    ],
+    "midhaul": [
+        [
+            "node0",
+            "node1"
+        ],
+        [
+            "node1",
+            "node1_hw1"
+        ]
+    ],
+    "backhaul": [],
+    "delay_fronthaul": 0.00475,
+    "delay_midhaul": 0.0018,
+    "delay_backhaul": 0
+},{
+    "identifier": 21,
+    "source": "node0",
+    "target": "node5_bs1",
+    "sequence": [
+        "node0",
+        "node1_hw2",
+        "node5_bs1"
+    ],
+    "fronthaul": [
+        [
+            "node1",
+            "node5"
+        ],
+        [
+            "node5",
+            "node5_bs1"
+        ]
+    ],
+    "midhaul": [
+        [
+            "node0",
+            "node1"
+        ],
+        [
+            "node1",
+            "node1_hw2"
+        ]
+    ],
+    "backhaul": [],
+    "delay_fronthaul": 0.00475,
+    "delay_midhaul": 0.0018,
+    "delay_backhaul": 0
+}
+]

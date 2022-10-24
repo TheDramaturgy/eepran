@@ -1,0 +1,430 @@
+{
+  "links": [
+    {
+      "fromNode": 0,
+      "toNode": 5314,
+      "delay": 0.36,
+      "capacity": 1000
+    },
+    {
+      "fromNode": 0,
+      "toNode": 5714,
+      "delay": 0.53,
+      "capacity": 1000
+    },
+    {
+      "fromNode": 0,
+      "toNode": 6191,
+      "delay": 0.58,
+      "capacity": 1000
+    },
+    {
+      "fromNode": 0,
+      "toNode": 7187,
+      "delay": 0.59,
+      "capacity": 1000
+    },
+    {
+      "fromNode": 0,
+      "toNode": 7314,
+      "delay": 0.28,
+      "capacity": 1000
+    },
+    {
+      "fromNode": 5314,
+      "toNode": 3416,
+      "delay": 1.1,
+      "capacity": 800
+    },
+    {
+      "fromNode": 5314,
+      "toNode": 4696,
+      "delay": 0.92,
+      "capacity": 800
+    },
+    {
+      "fromNode": 5314,
+      "toNode": 5315,
+      "delay": 1.06,
+      "capacity": 800
+    },
+    {
+      "fromNode": 5714,
+      "toNode": 3522,
+      "delay": 0.95,
+      "capacity": 800
+    },
+    {
+      "fromNode": 5714,
+      "toNode": 5318,
+      "delay": 1.33,
+      "capacity": 800
+    },
+    {
+      "fromNode": 5714,
+      "toNode": 6662,
+      "delay": 1.28,
+      "capacity": 800
+    },
+    {
+      "fromNode": 6191,
+      "toNode": 3714,
+      "delay": 0.94,
+      "capacity": 800
+    },
+    {
+      "fromNode": 6191,
+      "toNode": 4434,
+      "delay": 1.1,
+      "capacity": 800
+    },
+    {
+      "fromNode": 6191,
+      "toNode": 5834,
+      "delay": 1.1,
+      "capacity": 800
+    },
+    {
+      "fromNode": 7187,
+      "toNode": 3139,
+      "delay": 1.12,
+      "capacity": 800
+    },
+    {
+      "fromNode": 7187,
+      "toNode": 3926,
+      "delay": 1.3,
+      "capacity": 800
+    },
+    {
+      "fromNode": 7187,
+      "toNode": 5377,
+      "delay": 1.34,
+      "capacity": 800
+    },
+    {
+      "fromNode": 7314,
+      "toNode": 4812,
+      "delay": 1.4,
+      "capacity": 800
+    },
+    {
+      "fromNode": 7314,
+      "toNode": 5891,
+      "delay": 1.02,
+      "capacity": 800
+    },
+    {
+      "fromNode": 7314,
+      "toNode": 6586,
+      "delay": 1.13,
+      "capacity": 800
+    },
+    {
+      "fromNode": 3416,
+      "toNode": 4820,
+      "delay": 0.58,
+      "capacity": 400
+    },
+    {
+      "fromNode": 3416,
+      "toNode": 6389,
+      "delay": 0.8,
+      "capacity": 400
+    },
+    {
+      "fromNode": 3416,
+      "toNode": 6630,
+      "delay": 1.01,
+      "capacity": 400
+    },
+    {
+      "fromNode": 4696,
+      "toNode": 4183,
+      "delay": 1.07,
+      "capacity": 400
+    },
+    {
+      "fromNode": 4696,
+      "toNode": 4400,
+      "delay": 0.23,
+      "capacity": 400
+    },
+    {
+      "fromNode": 4696,
+      "toNode": 4402,
+      "delay": 1.16,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5315,
+      "toNode": 4972,
+      "delay": 0.8,
+      "capacity": 400
+    },
+    {
+      "fromNode": 3522,
+      "toNode": 5216,
+      "delay": 0.34,
+      "capacity": 400
+    },
+    {
+      "fromNode": 3522,
+      "toNode": 6578,
+      "delay": 1.1,
+      "capacity": 400
+    },
+    {
+      "fromNode": 3522,
+      "toNode": 6778,
+      "delay": 1.02,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5318,
+      "toNode": 3211,
+      "delay": 0.95,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5318,
+      "toNode": 4518,
+      "delay": 0.86,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5318,
+      "toNode": 5299,
+      "delay": 1.07,
+      "capacity": 400
+    },
+    {
+      "fromNode": 6662,
+      "toNode": 3713,
+      "delay": 1.19,
+      "capacity": 400
+    },
+    {
+      "fromNode": 6662,
+      "toNode": 5655,
+      "delay": 1.23,
+      "capacity": 400
+    },
+    {
+      "fromNode": 6662,
+      "toNode": 5989,
+      "delay": 0.3,
+      "capacity": 400
+    },
+    {
+      "fromNode": 3714,
+      "toNode": 4912,
+      "delay": 1.0,
+      "capacity": 400
+    },
+    {
+      "fromNode": 4434,
+      "toNode": 3753,
+      "delay": 1.17,
+      "capacity": 400
+    },
+    {
+      "fromNode": 4434,
+      "toNode": 5455,
+      "delay": 1.03,
+      "capacity": 400
+    },
+    {
+      "fromNode": 4434,
+      "toNode": 6290,
+      "delay": 0.56,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5834,
+      "toNode": 4432,
+      "delay": 0.66,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5834,
+      "toNode": 7997,
+      "delay": 1.01,
+      "capacity": 400
+    },
+    {
+      "fromNode": 3139,
+      "toNode": 5376,
+      "delay": 0.57,
+      "capacity": 400
+    },
+    {
+      "fromNode": 3139,
+      "toNode": 7287,
+      "delay": 1.37,
+      "capacity": 400
+    },
+    {
+      "fromNode": 3139,
+      "toNode": 7519,
+      "delay": 1.29,
+      "capacity": 400
+    },
+    {
+      "fromNode": 3926,
+      "toNode": 5771,
+      "delay": 1.21,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5377,
+      "toNode": 4913,
+      "delay": 0.73,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5377,
+      "toNode": 6242,
+      "delay": 0.43,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5377,
+      "toNode": 6512,
+      "delay": 0.49,
+      "capacity": 400
+    },
+    {
+      "fromNode": 4812,
+      "toNode": 5712,
+      "delay": 1.3,
+      "capacity": 400
+    },
+    {
+      "fromNode": 3714,
+      "toNode": 4820,
+      "delay": 0.3,
+      "capacity": 400
+    },
+    {
+      "fromNode": 4812,
+      "toNode": 6389,
+      "delay": 1.1,
+      "capacity": 400
+    },
+    {
+      "fromNode": 4812,
+      "toNode": 6630,
+      "delay": 1.31,
+      "capacity": 400
+    },
+    {
+      "fromNode": 6586,
+      "toNode": 4183,
+      "delay": 0.66,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5891,
+      "toNode": 4400,
+      "delay": 0.16,
+      "capacity": 400
+    },
+    {
+      "fromNode": 6586,
+      "toNode": 4402,
+      "delay": 0.74,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5891,
+      "toNode": 4972,
+      "delay": 0.74,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5891,
+      "toNode": 5216,
+      "delay": 0.58,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5834,
+      "toNode": 6578,
+      "delay": 1.11,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5834,
+      "toNode": 4518,
+      "delay": 1.22,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5834,
+      "toNode": 5655,
+      "delay": 0.31,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5834,
+      "toNode": 5989,
+      "delay": 1.28,
+      "capacity": 400
+    },
+    {
+      "fromNode": 4812,
+      "toNode": 4912,
+      "delay": 0.38,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5834,
+      "toNode": 3753,
+      "delay": 1.08,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5834,
+      "toNode": 5455,
+      "delay": 0.95,
+      "capacity": 400
+    },
+    {
+      "fromNode": 5834,
+      "toNode": 6290,
+      "delay": 0.48,
+      "capacity": 400
+    },
+    {
+      "fromNode": 4812,
+      "toNode": 5376,
+      "delay": 0.32,
+      "capacity": 400
+    },
+    {
+      "fromNode": 3926,
+      "toNode": 7519,
+      "delay": 0.82,
+      "capacity": 400
+    },
+    {
+      "fromNode": 4812,
+      "toNode": 5771,
+      "delay": 0.96,
+      "capacity": 400
+    },
+    {
+      "fromNode": 3714,
+      "toNode": 4913,
+      "delay": 1.32,
+      "capacity": 400
+    },
+    {
+      "fromNode": 3714,
+      "toNode": 5712,
+      "delay": 0.64,
+      "capacity": 400
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "nodes": [
+    {
+      "nodeNumber": 0,
+      "cpu": 0,
+      "RU": 0
+    },
+    {
+      "nodeNumber": 5314,
+      "cpu": 64,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 5714,
+      "cpu": 64,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 6191,
+      "cpu": 64,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 7187,
+      "cpu": 64,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 7314,
+      "cpu": 64,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 3416,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 4696,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 5315,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 3522,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 5318,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 6662,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 3714,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 4434,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 5834,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 3139,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 3926,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 5377,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 4812,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 5891,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 6586,
+      "cpu": 32,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 4820,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 6389,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 6630,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 4183,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 4400,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 4402,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 4972,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 5216,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 6578,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 6778,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 3211,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 4518,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 5299,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 3713,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 5655,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 5989,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 4912,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 3753,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 5455,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 6290,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 4432,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 7997,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 5376,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 7287,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 7519,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 5771,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 4913,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 6242,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 6512,
+      "cpu": 16,
+      "RU": 1
+    },
+    {
+      "nodeNumber": 5712,
+      "cpu": 16,
+      "RU": 1
+    }
+  ]
+}

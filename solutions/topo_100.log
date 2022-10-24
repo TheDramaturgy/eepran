@@ -1,0 +1,886 @@
+2022-10-24 09:11:34,128 INFO     Node Information Loaded: 0.010985374450683594s
+2022-10-24 09:11:34,163 DEBUG    Processed Links:
+2022-10-24 09:11:34,163 DEBUG        (node6373, node6373_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,163 DEBUG        (node6093, node6093_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,163 DEBUG        (node3954, node3954_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,163 DEBUG        (node4927, node4927_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,163 DEBUG        (node5394, node5394_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,163 DEBUG        (node5957, node5957_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,163 DEBUG        (node6736, node6736_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,163 DEBUG        (node7190, node7190_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,163 DEBUG        (node5890, node5890_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,163 DEBUG        (node5945, node5945_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,163 DEBUG        (node6242, node6242_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,163 DEBUG        (node6075, node6075_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,163 DEBUG        (node5713, node5713_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,163 DEBUG        (node5880, node5880_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,163 DEBUG        (node5509, node5509_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,164 DEBUG        (node5299, node5299_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,164 DEBUG        (node5239, node5239_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,164 DEBUG        (node7076, node7076_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,164 DEBUG        (node7146, node7146_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,164 DEBUG        (node5312, node5312_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,164 DEBUG        (node6029, node6029_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,164 DEBUG        (node5989, node5989_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,164 DEBUG        (node6659, node6659_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,164 DEBUG        (node7298, node7298_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,164 DEBUG        (node5991, node5991_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,164 DEBUG        (node6037, node6037_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,164 DEBUG        (node0, node4913) - port: 10, 100GB, 0.003ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node0, node5314) - port: 10, 100GB, 0.0018ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node0, node5523) - port: 10, 100GB, 0.0008ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node0, node5525) - port: 10, 100GB, 0.0012ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node0, node5712) - port: 10, 100GB, 0.0004ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node4913, node3714) - port: 8, 100GB, 0.006600000000000001ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node4913, node4434) - port: 8, 100GB, 0.00575ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node4913, node5297) - port: 8, 100GB, 0.00475ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node5314, node3416) - port: 8, 100GB, 0.0055000000000000005ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node5314, node3522) - port: 8, 100GB, 0.0048ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node5314, node5315) - port: 8, 100GB, 0.0053ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node5523, node4820) - port: 8, 100GB, 0.0038ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node5523, node7326) - port: 8, 100GB, 0.00585ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node5523, node7672) - port: 8, 100GB, 0.00615ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node5525, node4696) - port: 8, 100GB, 0.00495ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node5712, node4812) - port: 8, 100GB, 0.006500000000000001ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node3714, node4183) - port: 4, 100GB, 0.0067ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node3714, node5639) - port: 4, 100GB, 0.00555ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node4434, node3753) - port: 4, 100GB, 0.00585ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node4434, node4432) - port: 4, 100GB, 0.0033000000000000004ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node4434, node5455) - port: 4, 100GB, 0.00515ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node5297, node3713) - port: 4, 100GB, 0.00495ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node5297, node6077) - port: 4, 100GB, 0.0058ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node5297, node6188) - port: 4, 100GB, 0.0043ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node3416, node3139) - port: 4, 100GB, 0.0048ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node3416, node3926) - port: 4, 100GB, 0.005699999999999999ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node3416, node5771) - port: 4, 100GB, 0.0033000000000000004ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node3522, node4400) - port: 4, 100GB, 0.0017499999999999998ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node3522, node4972) - port: 4, 100GB, 0.0025ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node3522, node5317) - port: 4, 100GB, 0.0042ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node5315, node4402) - port: 4, 100GB, 0.00505ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node5315, node6415) - port: 4, 100GB, 0.00475ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node4820, node4912) - port: 4, 100GB, 0.0034999999999999996ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node7326, node5376) - port: 4, 100GB, 0.0009ms, 4.5+14w
+2022-10-24 09:11:34,164 DEBUG        (node7326, node6724) - port: 4, 100GB, 0.0043ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node7326, node7623) - port: 4, 100GB, 0.0043ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node7672, node5946) - port: 4, 100GB, 0.0023ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node7672, node7521) - port: 4, 100GB, 0.0067ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node7672, node7758) - port: 4, 100GB, 0.005450000000000001ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node4696, node5213) - port: 4, 100GB, 0.0053ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node4812, node6074) - port: 4, 100GB, 0.004050000000000001ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node4812, node6901) - port: 4, 100GB, 0.0054ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node4812, node6903) - port: 4, 100GB, 0.006350000000000001ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node4183, node5316) - port: 2, 100GB, 0.00525ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node5639, node5216) - port: 2, 100GB, 0.0021ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node3753, node2477) - port: 2, 100GB, 0.003ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node3753, node4518) - port: 2, 100GB, 0.00485ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node3753, node5451) - port: 2, 100GB, 0.0059ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node4432, node4813) - port: 2, 100GB, 0.0028000000000000004ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node5455, node5240) - port: 2, 100GB, 0.0058ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node3713, node4436) - port: 2, 100GB, 0.0027ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node3713, node5379) - port: 2, 100GB, 0.00395ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node3713, node6845) - port: 2, 100GB, 0.0043ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node6077, node5377) - port: 2, 100GB, 0.0031ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node6077, node6512) - port: 2, 100GB, 0.00305ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node6077, node6900) - port: 2, 100GB, 0.0055000000000000005ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node6188, node5885) - port: 2, 100GB, 0.0015ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node3139, node6076) - port: 2, 100GB, 0.0051ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node3139, node6816) - port: 2, 100GB, 0.0059499999999999996ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node3139, node6909) - port: 2, 100GB, 0.00445ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node3926, node6241) - port: 2, 100GB, 0.00335ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node5771, node5600) - port: 2, 100GB, 0.0035499999999999998ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node5771, node6735) - port: 2, 100GB, 0.0047ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node5771, node7625) - port: 2, 100GB, 0.00425ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node4400, node5318) - port: 2, 100GB, 0.0053ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node4972, node3211) - port: 2, 100GB, 0.00495ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node4972, node7511) - port: 2, 100GB, 0.0046500000000000005ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node4972, node7541) - port: 2, 100GB, 0.00505ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node5317, node5083) - port: 2, 100GB, 0.00525ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node4402, node5637) - port: 2, 100GB, 0.0013000000000000002ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node6415, node5815) - port: 2, 100GB, 0.005450000000000001ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node4912, node5942) - port: 2, 100GB, 0.00495ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node5376, node6078) - port: 2, 100GB, 0.0032ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node6724, node6245) - port: 2, 100GB, 0.006ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node7623, node6373) - port: 2, 100GB, 0.00455ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node5946, node6093) - port: 2, 100GB, 0.0066500000000000005ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node7521, node3954) - port: 2, 100GB, 0.00495ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node7521, node4927) - port: 2, 100GB, 0.005350000000000001ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node7521, node5394) - port: 2, 100GB, 0.0047ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node7758, node5957) - port: 2, 100GB, 0.0051ms, 4.5+14w
+2022-10-24 09:11:34,165 DEBUG        (node7758, node6736) - port: 2, 100GB, 0.0069ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node7758, node7190) - port: 2, 100GB, 0.0051ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5213, node5890) - port: 2, 100GB, 0.00625ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node6074, node5945) - port: 2, 100GB, 0.0028000000000000004ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node6901, node6242) - port: 2, 100GB, 0.0049ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node6903, node6075) - port: 2, 100GB, 0.005600000000000001ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5316, node5713) - port: 1, 100GB, 0.0045000000000000005ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5216, node5880) - port: 1, 100GB, 0.00375ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node2477, node5509) - port: 1, 100GB, 0.00455ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node4518, node5299) - port: 1, 100GB, 0.00365ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5451, node5239) - port: 1, 100GB, 0.00505ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5451, node7076) - port: 1, 100GB, 0.005200000000000001ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5451, node7146) - port: 1, 100GB, 0.0055000000000000005ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node4813, node5312) - port: 1, 100GB, 0.00375ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5240, node6029) - port: 1, 100GB, 0.0045000000000000005ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node4436, node5989) - port: 1, 100GB, 0.006600000000000001ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node4436, node6659) - port: 1, 100GB, 0.0046ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node4436, node7298) - port: 1, 100GB, 0.0032ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5379, node5991) - port: 1, 100GB, 0.0062ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node6845, node6037) - port: 1, 100GB, 0.00455ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5712, node3714) - port: 8, 100GB, 0.0032ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5712, node3416) - port: 8, 100GB, 0.00395ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5525, node3522) - port: 8, 100GB, 0.005450000000000001ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5525, node5315) - port: 8, 100GB, 0.005350000000000001ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5712, node4820) - port: 8, 100GB, 0.00345ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5712, node7326) - port: 8, 100GB, 0.0053ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5712, node7672) - port: 8, 100GB, 0.00565ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5315, node4183) - port: 4, 100GB, 0.0046500000000000005ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5315, node5639) - port: 4, 100GB, 0.0011ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node4820, node5771) - port: 4, 100GB, 0.00505ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5315, node4400) - port: 4, 100GB, 0.00105ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node4696, node4972) - port: 4, 100GB, 0.003ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node4696, node5317) - port: 4, 100GB, 0.00475ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node4696, node4402) - port: 4, 100GB, 0.0058ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node4696, node6415) - port: 4, 100GB, 0.005450000000000001ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node3714, node4912) - port: 4, 100GB, 0.005ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node4820, node5376) - port: 4, 100GB, 0.0048ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5315, node5213) - port: 4, 100GB, 0.0046ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node4400, node5316) - port: 2, 100GB, 0.00105ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node4400, node5216) - port: 2, 100GB, 0.0021ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5455, node2477) - port: 2, 100GB, 0.0037ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5317, node4518) - port: 2, 100GB, 0.0037ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5455, node5451) - port: 2, 100GB, 0.00495ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node5455, node4813) - port: 2, 100GB, 0.0034999999999999996ms, 4.5+14w
+2022-10-24 09:11:34,166 DEBUG        (node4432, node5240) - port: 2, 100GB, 0.0051ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6188, node4436) - port: 2, 100GB, 0.0028000000000000004ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6188, node5379) - port: 2, 100GB, 0.0033000000000000004ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6188, node6845) - port: 2, 100GB, 0.0039000000000000003ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6074, node5377) - port: 2, 100GB, 0.00415ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6903, node6512) - port: 2, 100GB, 0.0021ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6903, node6900) - port: 2, 100GB, 0.00215ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node7623, node6076) - port: 2, 100GB, 0.002ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node3926, node6816) - port: 2, 100GB, 0.00505ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6074, node6241) - port: 2, 100GB, 0.0013000000000000002ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node5376, node5600) - port: 2, 100GB, 0.006750000000000001ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node5317, node5318) - port: 2, 100GB, 0.0006ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node5317, node3211) - port: 2, 100GB, 0.00425ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node5317, node7511) - port: 2, 100GB, 0.0035499999999999998ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node5317, node7541) - port: 2, 100GB, 0.0043ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6415, node5637) - port: 2, 100GB, 0.00245ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node4400, node5815) - port: 2, 100GB, 0.00115ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6074, node5942) - port: 2, 100GB, 0.005350000000000001ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node4912, node6078) - port: 2, 100GB, 0.00395ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node4912, node6245) - port: 2, 100GB, 0.00105ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6074, node6373) - port: 2, 100GB, 0.0016ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node5376, node6093) - port: 2, 100GB, 0.00345ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node4400, node5890) - port: 2, 100GB, 0.0021ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6903, node5945) - port: 2, 100GB, 0.00515ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6903, node6242) - port: 2, 100GB, 0.00395ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6188, node6075) - port: 2, 100GB, 0.0047ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node5318, node5713) - port: 1, 100GB, 0.0013000000000000002ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node5318, node5880) - port: 1, 100GB, 0.0016ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node5083, node5299) - port: 1, 100GB, 0.0004ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6845, node5239) - port: 1, 100GB, 0.0046ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6845, node7076) - port: 1, 100GB, 0.00445ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6845, node7146) - port: 1, 100GB, 0.00415ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node2477, node6029) - port: 1, 100GB, 0.0019500000000000001ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6075, node5989) - port: 1, 100GB, 0.00215ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6845, node6659) - port: 1, 100GB, 0.0040999999999999995ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6845, node7298) - port: 1, 100GB, 0.0027ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node6075, node5991) - port: 1, 100GB, 0.004050000000000001ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node5885, node6037) - port: 1, 100GB, 0.0012ms, 4.5+14w
+2022-10-24 09:11:34,167 DEBUG        (node4913, node4913_hw2) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,167 DEBUG        (node4913, node4913_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,167 DEBUG        (node5314, node5314_hw2) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,167 DEBUG        (node4913, node4913_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,167 DEBUG        (node5314, node5314_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,167 DEBUG        (node5523, node5523_hw2) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,167 DEBUG        (node5314, node5314_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,167 DEBUG        (node5523, node5523_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,167 DEBUG        (node5525, node5525_hw2) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,167 DEBUG        (node5523, node5523_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,167 DEBUG        (node5525, node5525_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node5712, node5712_hw2) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node5525, node5525_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node5712, node5712_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node4183, node4183_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node5712, node5712_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node3714, node3714_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node3714, node3714_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node4434, node4434_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node4434, node4434_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node5297, node5297_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node5297, node5297_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node3416, node3416_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node3416, node3416_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node3522, node3522_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node3522, node3522_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node5315, node5315_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node5315, node5315_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node4820, node4820_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node4820, node4820_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node7326, node7326_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node7326, node7326_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node7672, node7672_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node7672, node7672_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node4696, node4696_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node4696, node4696_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node4812, node4812_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node4812, node4812_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node5316, node5316_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node4183, node4183_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node5639, node5639_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node5639, node5639_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node3753, node3753_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node3753, node3753_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node4432, node4432_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node4432, node4432_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node5455, node5455_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node5455, node5455_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node3713, node3713_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node3713, node3713_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node6077, node6077_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node6077, node6077_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node6188, node6188_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node6188, node6188_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node3139, node3139_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node3139, node3139_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node3926, node3926_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node3926, node3926_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,168 DEBUG        (node5771, node5771_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5771, node5771_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node4400, node4400_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node4400, node4400_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node4972, node4972_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node4972, node4972_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5317, node5317_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5317, node5317_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node4402, node4402_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node4402, node4402_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6415, node6415_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6415, node6415_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node4912, node4912_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node4912, node4912_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5376, node5376_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5376, node5376_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6724, node6724_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6724, node6724_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node7623, node7623_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node7623, node7623_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5946, node5946_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5946, node5946_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node7521, node7521_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node7521, node7521_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node7758, node7758_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node7758, node7758_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5213, node5213_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5213, node5213_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6074, node6074_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6074, node6074_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6901, node6901_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6901, node6901_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6903, node6903_hw1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6903, node6903_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5216, node5216_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node2477, node2477_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node4518, node4518_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5451, node5451_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node4813, node4813_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5240, node5240_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node4436, node4436_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5379, node5379_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6845, node6845_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5377, node5377_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6512, node6512_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6900, node6900_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node5885, node5885_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6076, node6076_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6816, node6816_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,169 DEBUG        (node6909, node6909_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 DEBUG        (node6241, node6241_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 DEBUG        (node5600, node5600_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 DEBUG        (node6735, node6735_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 DEBUG        (node7625, node7625_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 DEBUG        (node5318, node5318_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 DEBUG        (node3211, node3211_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 DEBUG        (node7511, node7511_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 DEBUG        (node7541, node7541_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 DEBUG        (node5083, node5083_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 DEBUG        (node5637, node5637_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 DEBUG        (node5815, node5815_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 DEBUG        (node5942, node5942_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 DEBUG        (node6078, node6078_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 DEBUG        (node6245, node6245_bs1) - port: 8, 10GB, 0.0ms, 10.0+4.2w
+2022-10-24 09:11:34,170 INFO     Link Information Loaded: 0.042055606842041016s
+2022-10-24 09:11:34,299 INFO     Routes Generated: 0.12911152839660645s
+2022-10-24 09:11:34,402 INFO     Model Creation Time:
+2022-10-24 09:11:34,403 INFO         Data Definition: 0.0002422332763671875s
+2022-10-24 09:11:34,646 INFO         Variables Definition: 0.24304556846618652s
+2022-10-24 09:11:35,419 INFO         Objective Definition: 0.7731859683990479s
+2022-10-24 09:11:36,872 INFO         Centralization Definition: 1.4529283046722412s
+2022-10-24 09:11:36,916 INFO         Single Route Definition: 0.043306827545166016s
+2022-10-24 09:11:37,168 INFO         Processing Definition: 0.25179243087768555s
+2022-10-24 09:11:37,756 DEBUG    Notify start solve: engine_type=None, solve_details={
+   "MODEL_DETAIL_INTEGER_VARS": 435,
+   "MODEL_DETAIL_CONTINUOUS_VARS": 0,
+   "MODEL_DETAIL_CONSTRAINTS": 1329,
+   "MODEL_DETAIL_BOOLEAN_VARS": 7934,
+   "MODEL_DETAIL_KPIS": "[]",
+   "STAT.cplex.size.integerVariables": 435,
+   "STAT.cplex.size.continousVariables": 0,
+   "STAT.cplex.size.linearConstraints": 1329,
+   "STAT.cplex.size.booleanVariables": 7934,
+   "STAT.cplex.size.constraints": 1329,
+   "STAT.cplex.size.quadraticConstraints": 0,
+   "STAT.cplex.size.variables": 8369,
+   "STAT.cplex.modelType": "MILP",
+   "MODEL_DETAIL_OBJECTIVE_SENSE": "minimize"
+}
+Version identifier: 22.1.0.0 | 2022-03-09 | 1a383f8ce
+CPXPARAM_Read_DataCheck                          1
+Found incumbent of value 137177.850000 after 0.00 sec. (1.30 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 489 rows and 1696 columns.
+MIP Presolve modified 33203 coefficients.
+Reduced MIP has 840 rows, 6673 columns, and 115797 nonzeros.
+Reduced MIP has 6673 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.25 sec. (334.19 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+MIP Presolve eliminated 2 rows and 48 columns.
+MIP Presolve modified 5 coefficients.
+Reduced MIP has 838 rows, 6625 columns, and 114187 nonzeros.
+Reduced MIP has 6625 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.08 sec. (83.21 ticks)
+Probing time = 0.04 sec. (34.19 ticks)
+Clique table members: 40632.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 6 threads.
+Root relaxation solution time = 0.02 sec. (25.16 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                       137177.8500        0.0000           100.00%
+*     0+    0                       137058.8989        0.0000           100.00%
+      0     0   132161.1625    23   137058.8989   132161.1625      367    3.57%
+*     0+    0                       133280.2744   132161.1625             0.84%
+*     0+    0                       132949.9987   132161.1625             0.59%
+      0     0   132461.4524    73   132949.9987     Cuts: 261      686    0.37%
+      0     0   132509.1672    56   132949.9987     Cuts: 172      803    0.33%
+*     0+    0                       132787.3324   132509.1672             0.21%
+*     0+    0                       132760.3631   132509.1672             0.19%
+*     0+    0                       132674.1873   132509.1672             0.12%
+      0     0   132517.0386   121   132674.1873      Cuts: 77      880    0.12%
+*     0+    0                       132611.3212   132517.0386             0.07%
+*     0+    0                       132561.8212   132517.0386             0.03%
+      0     0  -1.00000e+75     0   132561.8212   132517.0386      880    0.03%
+
+Repeating presolve.
+Tried aggregator 2 times.
+MIP Presolve eliminated 507 rows and 6038 columns.
+MIP Presolve modified 826 coefficients.
+Aggregator did 11 substitutions.
+Reduced MIP has 320 rows, 567 columns, and 3564 nonzeros.
+Reduced MIP has 567 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.01 sec. (21.27 ticks)
+Probing time = 0.00 sec. (1.23 ticks)
+Tried aggregator 1 time.
+MIP Presolve eliminated 111 rows and 77 columns.
+Reduced MIP has 209 rows, 490 columns, and 2420 nonzeros.
+Reduced MIP has 490 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (2.12 ticks)
+Probing time = 0.00 sec. (0.73 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+Reduced MIP has 209 rows, 490 columns, and 2420 nonzeros.
+Reduced MIP has 490 binaries, 0 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (1.53 ticks)
+Represolve time = 0.03 sec. (43.19 ticks)
+Probing time = 0.00 sec. (0.72 ticks)
+Clique table members: 947.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 6 threads.
+Root relaxation solution time = 0.00 sec. (2.47 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                       132561.8212   132517.0386             0.03%
+      0     0   132538.5947    47   132561.8212   132538.5947     1056    0.02%
+*     0+    0                       132550.4715   132538.5947             0.01%
+
+GUB cover cuts applied:  27
+Clique cuts applied:  84
+Cover cuts applied:  5
+Implied bound cuts applied:  2
+Mixed integer rounding cuts applied:  18
+Zero-half cuts applied:  23
+Lift and project cuts applied:  9
+Gomory fractional cuts applied:  19
+
+Root node processing (before b&c):
+  Real time             =    0.71 sec. (857.38 ticks)
+Parallel b&c, 6 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.71 sec. (857.38 ticks)
+2022-10-24 09:11:38,477 DEBUG    Notify end solve, status=JobSolveStatus.OPTIMAL_SOLUTION, solve_time=None
+2022-10-24 09:11:38,480 DEBUG    ----- Activated Decision Variables:
+2022-10-24 09:11:38,480 DEBUG    route=3, drc=10, bs=node4913_bs1 -> 1.0
+2022-10-24 09:11:38,480 DEBUG    route=6, drc=10, bs=node5314_bs1 -> 1.0
+2022-10-24 09:11:38,480 DEBUG    route=7, drc=8, bs=node5523_bs1 -> 1.0
+2022-10-24 09:11:38,481 DEBUG    route=12, drc=10, bs=node5525_bs1 -> 1.0
+2022-10-24 09:11:38,481 DEBUG    route=15, drc=10, bs=node5712_bs1 -> 1.0
+2022-10-24 09:11:38,481 DEBUG    route=20, drc=10, bs=node3714_bs1 -> 1.0
+2022-10-24 09:11:38,481 DEBUG    route=32, drc=10, bs=node4434_bs1 -> 1.0
+2022-10-24 09:11:38,481 DEBUG    route=38, drc=10, bs=node5297_bs1 -> 1.0
+2022-10-24 09:11:38,481 DEBUG    route=44, drc=10, bs=node3416_bs1 -> 1.0
+2022-10-24 09:11:38,482 DEBUG    route=63, drc=10, bs=node3522_bs1 -> 1.0
+2022-10-24 09:11:38,482 DEBUG    route=74, drc=10, bs=node5315_bs1 -> 1.0
+2022-10-24 09:11:38,482 DEBUG    route=86, drc=10, bs=node4820_bs1 -> 1.0
+2022-10-24 09:11:38,482 DEBUG    route=99, drc=10, bs=node7326_bs1 -> 1.0
+2022-10-24 09:11:38,482 DEBUG    route=110, drc=10, bs=node7672_bs1 -> 1.0
+2022-10-24 09:11:38,482 DEBUG    route=116, drc=10, bs=node4696_bs1 -> 1.0
+2022-10-24 09:11:38,482 DEBUG    route=122, drc=10, bs=node4812_bs1 -> 1.0
+2022-10-24 09:11:38,482 DEBUG    route=151, drc=10, bs=node4183_bs1 -> 1.0
+2022-10-24 09:11:38,483 DEBUG    route=181, drc=10, bs=node5639_bs1 -> 1.0
+2022-10-24 09:11:38,483 DEBUG    route=193, drc=10, bs=node3753_bs1 -> 1.0
+2022-10-24 09:11:38,483 DEBUG    route=201, drc=10, bs=node4432_bs1 -> 1.0
+2022-10-24 09:11:38,483 DEBUG    route=211, drc=10, bs=node5455_bs1 -> 1.0
+2022-10-24 09:11:38,483 DEBUG    route=221, drc=10, bs=node3713_bs1 -> 1.0
+2022-10-24 09:11:38,483 DEBUG    route=231, drc=10, bs=node6077_bs1 -> 1.0
+2022-10-24 09:11:38,483 DEBUG    route=243, drc=10, bs=node6188_bs1 -> 1.0
+2022-10-24 09:11:38,483 DEBUG    route=251, drc=10, bs=node3139_bs1 -> 1.0
+2022-10-24 09:11:38,483 DEBUG    route=271, drc=10, bs=node3926_bs1 -> 1.0
+2022-10-24 09:11:38,484 DEBUG    route=291, drc=10, bs=node5771_bs1 -> 1.0
+2022-10-24 09:11:38,484 DEBUG    route=342, drc=10, bs=node4400_bs1 -> 1.0
+2022-10-24 09:11:38,484 DEBUG    route=372, drc=10, bs=node4972_bs1 -> 1.0
+2022-10-24 09:11:38,484 DEBUG    route=402, drc=10, bs=node5317_bs1 -> 1.0
+2022-10-24 09:11:38,484 DEBUG    route=431, drc=10, bs=node4402_bs1 -> 1.0
+2022-10-24 09:11:38,485 DEBUG    route=461, drc=10, bs=node6415_bs1 -> 1.0
+2022-10-24 09:11:38,485 DEBUG    route=471, drc=10, bs=node4912_bs1 -> 1.0
+2022-10-24 09:11:38,485 DEBUG    route=512, drc=10, bs=node5376_bs1 -> 1.0
+2022-10-24 09:11:38,485 DEBUG    route=542, drc=10, bs=node6724_bs1 -> 1.0
+2022-10-24 09:11:38,485 DEBUG    route=552, drc=10, bs=node7623_bs1 -> 1.0
+2022-10-24 09:11:38,485 DEBUG    route=581, drc=10, bs=node5946_bs1 -> 1.0
+2022-10-24 09:11:38,486 DEBUG    route=601, drc=10, bs=node7521_bs1 -> 1.0
+2022-10-24 09:11:38,486 DEBUG    route=621, drc=10, bs=node7758_bs1 -> 1.0
+2022-10-24 09:11:38,486 DEBUG    route=651, drc=10, bs=node5213_bs1 -> 1.0
+2022-10-24 09:11:38,486 DEBUG    route=661, drc=10, bs=node6074_bs1 -> 1.0
+2022-10-24 09:11:38,486 DEBUG    route=671, drc=10, bs=node6901_bs1 -> 1.0
+2022-10-24 09:11:38,486 DEBUG    route=681, drc=10, bs=node6903_bs1 -> 1.0
+2022-10-24 09:11:38,486 DEBUG    route=702, drc=10, bs=node5316_bs1 -> 1.0
+2022-10-24 09:11:38,486 DEBUG    route=732, drc=10, bs=node5216_bs1 -> 1.0
+2022-10-24 09:11:38,487 DEBUG    route=753, drc=10, bs=node2477_bs1 -> 1.0
+2022-10-24 09:11:38,487 DEBUG    route=773, drc=10, bs=node4518_bs1 -> 1.0
+2022-10-24 09:11:38,487 DEBUG    route=803, drc=10, bs=node5451_bs1 -> 1.0
+2022-10-24 09:11:38,487 DEBUG    route=821, drc=10, bs=node4813_bs1 -> 1.0
+2022-10-24 09:11:38,487 DEBUG    route=841, drc=10, bs=node5240_bs1 -> 1.0
+2022-10-24 09:11:38,487 DEBUG    route=873, drc=10, bs=node4436_bs1 -> 1.0
+2022-10-24 09:11:38,488 DEBUG    route=893, drc=10, bs=node5379_bs1 -> 1.0
+2022-10-24 09:11:38,488 DEBUG    route=913, drc=10, bs=node6845_bs1 -> 1.0
+2022-10-24 09:11:38,488 DEBUG    route=921, drc=10, bs=node5377_bs1 -> 1.0
+2022-10-24 09:11:38,488 DEBUG    route=941, drc=10, bs=node6512_bs1 -> 1.0
+2022-10-24 09:11:38,488 DEBUG    route=961, drc=10, bs=node6900_bs1 -> 1.0
+2022-10-24 09:11:38,488 DEBUG    route=983, drc=10, bs=node5885_bs1 -> 1.0
+2022-10-24 09:11:38,488 DEBUG    route=1002, drc=10, bs=node6076_bs1 -> 1.0
+2022-10-24 09:11:38,488 DEBUG    route=1021, drc=10, bs=node6816_bs1 -> 1.0
+2022-10-24 09:11:38,489 DEBUG    route=1051, drc=10, bs=node6909_bs1 -> 1.0
+2022-10-24 09:11:38,489 DEBUG    route=1071, drc=10, bs=node6241_bs1 -> 1.0
+2022-10-24 09:11:38,489 DEBUG    route=1101, drc=10, bs=node5600_bs1 -> 1.0
+2022-10-24 09:11:38,489 DEBUG    route=1131, drc=10, bs=node6735_bs1 -> 1.0
+2022-10-24 09:11:38,489 DEBUG    route=1161, drc=10, bs=node7625_bs1 -> 1.0
+2022-10-24 09:11:38,490 DEBUG    route=1192, drc=10, bs=node5318_bs1 -> 1.0
+2022-10-24 09:11:38,490 DEBUG    route=1222, drc=10, bs=node3211_bs1 -> 1.0
+2022-10-24 09:11:38,490 DEBUG    route=1252, drc=10, bs=node7511_bs1 -> 1.0
+2022-10-24 09:11:38,490 DEBUG    route=1282, drc=10, bs=node7541_bs1 -> 1.0
+2022-10-24 09:11:38,490 DEBUG    route=1312, drc=10, bs=node5083_bs1 -> 1.0
+2022-10-24 09:11:38,491 DEBUG    route=1361, drc=10, bs=node5637_bs1 -> 1.0
+2022-10-24 09:11:38,491 DEBUG    route=1372, drc=10, bs=node5815_bs1 -> 1.0
+2022-10-24 09:11:38,491 DEBUG    route=1401, drc=10, bs=node5942_bs1 -> 1.0
+2022-10-24 09:11:38,491 DEBUG    route=1431, drc=10, bs=node6078_bs1 -> 1.0
+2022-10-24 09:11:38,491 DEBUG    route=1482, drc=10, bs=node6245_bs1 -> 1.0
+2022-10-24 09:11:38,491 DEBUG    route=1492, drc=10, bs=node6373_bs1 -> 1.0
+2022-10-24 09:11:38,492 DEBUG    route=1532, drc=10, bs=node6093_bs1 -> 1.0
+2022-10-24 09:11:38,492 DEBUG    route=1561, drc=10, bs=node3954_bs1 -> 1.0
+2022-10-24 09:11:38,492 DEBUG    route=1581, drc=10, bs=node4927_bs1 -> 1.0
+2022-10-24 09:11:38,492 DEBUG    route=1601, drc=10, bs=node5394_bs1 -> 1.0
+2022-10-24 09:11:38,492 DEBUG    route=1621, drc=10, bs=node5957_bs1 -> 1.0
+2022-10-24 09:11:38,492 DEBUG    route=1641, drc=10, bs=node6736_bs1 -> 1.0
+2022-10-24 09:11:38,493 DEBUG    route=1661, drc=10, bs=node7190_bs1 -> 1.0
+2022-10-24 09:11:38,493 DEBUG    route=1672, drc=10, bs=node5890_bs1 -> 1.0
+2022-10-24 09:11:38,493 DEBUG    route=1711, drc=10, bs=node5945_bs1 -> 1.0
+2022-10-24 09:11:38,493 DEBUG    route=1721, drc=10, bs=node6242_bs1 -> 1.0
+2022-10-24 09:11:38,493 DEBUG    route=1743, drc=10, bs=node6075_bs1 -> 1.0
+2022-10-24 09:11:38,493 DEBUG    route=1772, drc=10, bs=node5713_bs1 -> 1.0
+2022-10-24 09:11:38,493 DEBUG    route=1802, drc=10, bs=node5880_bs1 -> 1.0
+2022-10-24 09:11:38,494 DEBUG    route=1823, drc=10, bs=node5509_bs1 -> 1.0
+2022-10-24 09:11:38,494 DEBUG    route=1843, drc=10, bs=node5299_bs1 -> 1.0
+2022-10-24 09:11:38,494 DEBUG    route=1873, drc=10, bs=node5239_bs1 -> 1.0
+2022-10-24 09:11:38,494 DEBUG    route=1903, drc=10, bs=node7076_bs1 -> 1.0
+2022-10-24 09:11:38,494 DEBUG    route=1933, drc=10, bs=node7146_bs1 -> 1.0
+2022-10-24 09:11:38,495 DEBUG    route=1961, drc=10, bs=node5312_bs1 -> 1.0
+2022-10-24 09:11:38,495 DEBUG    route=1983, drc=10, bs=node6029_bs1 -> 1.0
+2022-10-24 09:11:38,495 DEBUG    route=2023, drc=10, bs=node5989_bs1 -> 1.0
+2022-10-24 09:11:38,495 DEBUG    route=2063, drc=10, bs=node6659_bs1 -> 1.0
+2022-10-24 09:11:38,495 DEBUG    route=2093, drc=10, bs=node7298_bs1 -> 1.0
+2022-10-24 09:11:38,495 DEBUG    route=2113, drc=10, bs=node5991_bs1 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    route=2143, drc=10, bs=node6037_bs1 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    ---- Centralization Locations:
+2022-10-24 09:11:38,496 DEBUG    node=node4913, function=f3 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node4913, function=f4 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node4913, function=f5 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node4913, function=f6 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node4913, function=f7 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node4913, function=f8 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node5314, function=f3 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node5314, function=f4 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node5314, function=f5 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node5314, function=f6 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node5314, function=f7 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node5314, function=f8 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node5525, function=f3 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node5525, function=f4 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node5525, function=f5 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node5525, function=f6 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node5525, function=f7 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node5525, function=f8 -> 1.0
+2022-10-24 09:11:38,496 DEBUG    node=node5712, function=f3 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node5712, function=f4 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node5712, function=f5 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node5712, function=f6 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node5712, function=f7 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node5712, function=f8 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node3522, function=f3 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node3522, function=f4 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node3522, function=f5 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node3522, function=f6 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node3522, function=f7 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node3522, function=f8 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node7326, function=f3 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node7326, function=f4 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node7326, function=f5 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node7326, function=f6 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node7326, function=f7 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node7326, function=f8 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node3753, function=f3 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node3753, function=f4 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node3753, function=f5 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node3753, function=f6 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node3753, function=f7 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node3753, function=f8 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node6188, function=f3 -> 1.0
+2022-10-24 09:11:38,497 DEBUG    node=node6188, function=f4 -> 1.0
+2022-10-24 09:11:38,498 DEBUG    node=node6188, function=f5 -> 1.0
+2022-10-24 09:11:38,498 DEBUG    node=node6188, function=f6 -> 1.0
+2022-10-24 09:11:38,498 DEBUG    node=node6188, function=f7 -> 1.0
+2022-10-24 09:11:38,498 DEBUG    node=node6188, function=f8 -> 1.0
+2022-10-24 09:11:38,498 DEBUG    ---- Selected DRCs:
+2022-10-24 09:11:38,498 DEBUG    node4913_bs1:
+2022-10-24 09:11:38,498 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,498 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,498 DEBUG    node5314_bs1:
+2022-10-24 09:11:38,498 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,498 DEBUG        DU(node5314_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,498 DEBUG    node5523_bs1:
+2022-10-24 09:11:38,498 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,498 DEBUG        DU(node0 -> [])
+2022-10-24 09:11:38,498 DEBUG    node5525_bs1:
+2022-10-24 09:11:38,498 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,498 DEBUG        DU(node5525_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,498 DEBUG    node5712_bs1:
+2022-10-24 09:11:38,498 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,499 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,499 DEBUG    node3714_bs1:
+2022-10-24 09:11:38,499 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,499 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,499 DEBUG    node4434_bs1:
+2022-10-24 09:11:38,499 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,499 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,499 DEBUG    node5297_bs1:
+2022-10-24 09:11:38,499 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,499 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,499 DEBUG    node3416_bs1:
+2022-10-24 09:11:38,499 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,499 DEBUG        DU(node5314_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,500 DEBUG    node3522_bs1:
+2022-10-24 09:11:38,500 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,500 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,500 DEBUG    node5315_bs1:
+2022-10-24 09:11:38,500 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,500 DEBUG        DU(node5525_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,500 DEBUG    node4820_bs1:
+2022-10-24 09:11:38,500 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,500 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,500 DEBUG    node7326_bs1:
+2022-10-24 09:11:38,500 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,500 DEBUG        DU(node7326_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,501 DEBUG    node7672_bs1:
+2022-10-24 09:11:38,501 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,501 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,501 DEBUG    node4696_bs1:
+2022-10-24 09:11:38,501 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,501 DEBUG        DU(node5525_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,501 DEBUG    node4812_bs1:
+2022-10-24 09:11:38,501 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,501 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,501 DEBUG    node4183_bs1:
+2022-10-24 09:11:38,501 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,501 DEBUG        DU(node5525_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,501 DEBUG    node5639_bs1:
+2022-10-24 09:11:38,502 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,502 DEBUG        DU(node5525_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,502 DEBUG    node3753_bs1:
+2022-10-24 09:11:38,502 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,502 DEBUG        DU(node3753_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,502 DEBUG    node4432_bs1:
+2022-10-24 09:11:38,502 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,502 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,502 DEBUG    node5455_bs1:
+2022-10-24 09:11:38,502 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,502 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,503 DEBUG    node3713_bs1:
+2022-10-24 09:11:38,503 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,503 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,503 DEBUG    node6077_bs1:
+2022-10-24 09:11:38,503 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,503 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,503 DEBUG    node6188_bs1:
+2022-10-24 09:11:38,503 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,503 DEBUG        DU(node6188_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,504 DEBUG    node3139_bs1:
+2022-10-24 09:11:38,504 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,504 DEBUG        DU(node5314_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,504 DEBUG    node3926_bs1:
+2022-10-24 09:11:38,504 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,504 DEBUG        DU(node5314_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,504 DEBUG    node5771_bs1:
+2022-10-24 09:11:38,504 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,504 DEBUG        DU(node5314_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,505 DEBUG    node4400_bs1:
+2022-10-24 09:11:38,505 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,505 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,505 DEBUG    node4972_bs1:
+2022-10-24 09:11:38,505 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,505 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,505 DEBUG    node5317_bs1:
+2022-10-24 09:11:38,505 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,505 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,506 DEBUG    node4402_bs1:
+2022-10-24 09:11:38,506 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,506 DEBUG        DU(node5525_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,506 DEBUG    node6415_bs1:
+2022-10-24 09:11:38,506 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,506 DEBUG        DU(node5525_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,507 DEBUG    node4912_bs1:
+2022-10-24 09:11:38,507 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,507 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,507 DEBUG    node5376_bs1:
+2022-10-24 09:11:38,507 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,507 DEBUG        DU(node7326_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,507 DEBUG    node6724_bs1:
+2022-10-24 09:11:38,507 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,507 DEBUG        DU(node7326_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,507 DEBUG    node7623_bs1:
+2022-10-24 09:11:38,508 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,508 DEBUG        DU(node7326_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,508 DEBUG    node5946_bs1:
+2022-10-24 09:11:38,508 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,508 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,508 DEBUG    node7521_bs1:
+2022-10-24 09:11:38,508 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,508 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,508 DEBUG    node7758_bs1:
+2022-10-24 09:11:38,508 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,508 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,508 DEBUG    node5213_bs1:
+2022-10-24 09:11:38,508 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,508 DEBUG        DU(node5525_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,509 DEBUG    node6074_bs1:
+2022-10-24 09:11:38,509 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,509 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,509 DEBUG    node6901_bs1:
+2022-10-24 09:11:38,509 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,509 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,509 DEBUG    node6903_bs1:
+2022-10-24 09:11:38,509 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,509 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,509 DEBUG    node5316_bs1:
+2022-10-24 09:11:38,509 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,509 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,509 DEBUG    node5216_bs1:
+2022-10-24 09:11:38,509 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,509 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,509 DEBUG    node2477_bs1:
+2022-10-24 09:11:38,510 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,510 DEBUG        DU(node3753_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,510 DEBUG    node4518_bs1:
+2022-10-24 09:11:38,510 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,510 DEBUG        DU(node3753_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,510 DEBUG    node5451_bs1:
+2022-10-24 09:11:38,510 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,510 DEBUG        DU(node3753_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,510 DEBUG    node4813_bs1:
+2022-10-24 09:11:38,510 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,510 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,510 DEBUG    node5240_bs1:
+2022-10-24 09:11:38,510 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,510 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,511 DEBUG    node4436_bs1:
+2022-10-24 09:11:38,511 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,511 DEBUG        DU(node6188_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,511 DEBUG    node5379_bs1:
+2022-10-24 09:11:38,511 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,511 DEBUG        DU(node6188_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,511 DEBUG    node6845_bs1:
+2022-10-24 09:11:38,511 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,511 DEBUG        DU(node6188_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,511 DEBUG    node5377_bs1:
+2022-10-24 09:11:38,511 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,511 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,511 DEBUG    node6512_bs1:
+2022-10-24 09:11:38,511 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,511 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,512 DEBUG    node6900_bs1:
+2022-10-24 09:11:38,512 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,512 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,512 DEBUG    node5885_bs1:
+2022-10-24 09:11:38,512 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,512 DEBUG        DU(node6188_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,512 DEBUG    node6076_bs1:
+2022-10-24 09:11:38,512 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,512 DEBUG        DU(node7326_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,512 DEBUG    node6816_bs1:
+2022-10-24 09:11:38,512 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,512 DEBUG        DU(node5314_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,512 DEBUG    node6909_bs1:
+2022-10-24 09:11:38,512 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,512 DEBUG        DU(node5314_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,512 DEBUG    node6241_bs1:
+2022-10-24 09:11:38,512 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,512 DEBUG        DU(node5314_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,513 DEBUG    node5600_bs1:
+2022-10-24 09:11:38,513 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,513 DEBUG        DU(node5314_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,513 DEBUG    node6735_bs1:
+2022-10-24 09:11:38,513 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,513 DEBUG        DU(node5314_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,513 DEBUG    node7625_bs1:
+2022-10-24 09:11:38,513 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,513 DEBUG        DU(node5314_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,513 DEBUG    node5318_bs1:
+2022-10-24 09:11:38,513 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,513 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,514 DEBUG    node3211_bs1:
+2022-10-24 09:11:38,514 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,514 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,514 DEBUG    node7511_bs1:
+2022-10-24 09:11:38,514 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,514 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,514 DEBUG    node7541_bs1:
+2022-10-24 09:11:38,514 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,514 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,514 DEBUG    node5083_bs1:
+2022-10-24 09:11:38,514 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,514 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,515 DEBUG    node5637_bs1:
+2022-10-24 09:11:38,515 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,515 DEBUG        DU(node5525_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,515 DEBUG    node5815_bs1:
+2022-10-24 09:11:38,515 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,515 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,515 DEBUG    node5942_bs1:
+2022-10-24 09:11:38,515 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,515 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,515 DEBUG    node6078_bs1:
+2022-10-24 09:11:38,515 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,515 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,515 DEBUG    node6245_bs1:
+2022-10-24 09:11:38,516 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,516 DEBUG        DU(node7326_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,516 DEBUG    node6373_bs1:
+2022-10-24 09:11:38,516 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,516 DEBUG        DU(node7326_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,516 DEBUG    node6093_bs1:
+2022-10-24 09:11:38,516 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,516 DEBUG        DU(node7326_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,516 DEBUG    node3954_bs1:
+2022-10-24 09:11:38,516 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,516 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,516 DEBUG    node4927_bs1:
+2022-10-24 09:11:38,516 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,516 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,517 DEBUG    node5394_bs1:
+2022-10-24 09:11:38,517 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,517 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,517 DEBUG    node5957_bs1:
+2022-10-24 09:11:38,517 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,517 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,517 DEBUG    node6736_bs1:
+2022-10-24 09:11:38,517 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,517 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,517 DEBUG    node7190_bs1:
+2022-10-24 09:11:38,517 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,517 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,517 DEBUG    node5890_bs1:
+2022-10-24 09:11:38,517 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,517 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,518 DEBUG    node5945_bs1:
+2022-10-24 09:11:38,518 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,518 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,518 DEBUG    node6242_bs1:
+2022-10-24 09:11:38,518 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,518 DEBUG        DU(node5712_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,518 DEBUG    node6075_bs1:
+2022-10-24 09:11:38,518 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,518 DEBUG        DU(node6188_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,518 DEBUG    node5713_bs1:
+2022-10-24 09:11:38,518 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,518 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,518 DEBUG    node5880_bs1:
+2022-10-24 09:11:38,519 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,519 DEBUG        DU(node3522_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,519 DEBUG    node5509_bs1:
+2022-10-24 09:11:38,519 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,519 DEBUG        DU(node3753_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,519 DEBUG    node5299_bs1:
+2022-10-24 09:11:38,519 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,519 DEBUG        DU(node3753_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,519 DEBUG    node5239_bs1:
+2022-10-24 09:11:38,519 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,519 DEBUG        DU(node3753_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,519 DEBUG    node7076_bs1:
+2022-10-24 09:11:38,520 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,520 DEBUG        DU(node3753_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,520 DEBUG    node7146_bs1:
+2022-10-24 09:11:38,520 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,520 DEBUG        DU(node3753_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,520 DEBUG    node5312_bs1:
+2022-10-24 09:11:38,520 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,520 DEBUG        DU(node4913_hw2 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,521 DEBUG    node6029_bs1:
+2022-10-24 09:11:38,521 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,521 DEBUG        DU(node3753_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,521 DEBUG    node5989_bs1:
+2022-10-24 09:11:38,521 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,521 DEBUG        DU(node6188_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,521 DEBUG    node6659_bs1:
+2022-10-24 09:11:38,521 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,521 DEBUG        DU(node6188_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,522 DEBUG    node7298_bs1:
+2022-10-24 09:11:38,522 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,522 DEBUG        DU(node6188_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,522 DEBUG    node5991_bs1:
+2022-10-24 09:11:38,522 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,522 DEBUG        DU(node6188_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+2022-10-24 09:11:38,522 DEBUG    node6037_bs1:
+2022-10-24 09:11:38,522 DEBUG        CU(node0 -> [])
+2022-10-24 09:11:38,522 DEBUG        DU(node6188_hw1 -> ['f8', 'f7', 'f6', 'f5', 'f4', 'f3'])
+----------------------------------------
+Objective Value: 132550.47151953122 [w]
+Centralization: 546.0
+----------------------------------------
