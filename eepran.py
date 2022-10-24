@@ -16,7 +16,7 @@ logger.addHandler(handler)
 logger.setLevel(logging.DEBUG)
 
 # ----- Topology Definition -----
-topo = core.topology.Topology("data/T2_200_BS_usage.csv")
+topo = core.topology.Topology("data/T2_50_BS_usage.csv")
 
 topo.add_hardware(identifier=1, cpu=64, power_consumption=225)
 topo.add_hardware(identifier=2, cpu=56, power_consumption=400)
@@ -25,11 +25,11 @@ topo.add_base_station(identifier=1, num_rf_chains=25, num_sectors=3,
                       rf_chain_power_consumption=1, power_amplifier_efficiency=0.25)
 
 
-topo.load_nodes_for_eepran('data/EEPRAN_T2_200_nodes.json')
-topo.load_links_for_eepran('data/EEPRAN_T2_200_links.json')
+topo.load_nodes_for_eepran('data/EEPRAN_T2_50_nodes.json')
+topo.load_links_for_eepran('data/EEPRAN_T2_50_links.json')
 
 topo.generate_routes(origin_node='node0')
-topo.export_routes('data/routes_200.json')
+topo.export_routes('data/routes_50.json')
 # topo.import_routes_from_json('data/routes_5.json')
 
 model, centralization_constraint = core.model.build_eepran_model(topo)

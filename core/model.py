@@ -75,15 +75,17 @@ def build_eepran_model(topo: Topology, centralization_cap: int = 0) -> {Model, A
 
     objective_function_start = time.time()
 
-    # ----- Optimized -----
     ran_power_consumption = model.linear_expr()
     base_station_power_expression = model.linear_expr()
     dynamic_power_expression = model.linear_expr()
     static_power_consumptions = {}
+    link_usage_expressions = {}
     psi_1 = {}
+
     for key in decision_var_keys:
         route = topo.get_route(key.route_id)
 
+        # ---------- vRAN Consumption ----------
         for function in virtual_network_functions:
             if route.has_backhaul() and function in drc_dict[key.drc_id].fs_cu:
                 node_key = route.get_backhaul_node_key()
@@ -128,7 +130,7 @@ def build_eepran_model(topo: Topology, centralization_cap: int = 0) -> {Model, A
                     static_power_consumptions[hw_key] = hw.power_consumption * node.static_percentage
 
         
-        # Base Station Consumption
+        # ---------- Base Station Consumption ----------
         node_key = route.get_fronthaul_node_key()
         node = topo.get_node(node_key)
 
@@ -147,19 +149,7 @@ def build_eepran_model(topo: Topology, centralization_cap: int = 0) -> {Model, A
             (1.0 - drc_dict[key.drc_id].bs_relief) * bs_power_consumption
         )
 
-    ran_power_consumption.add(base_station_power_expression)
-    ran_power_consumption.add(dynamic_power_expression)
-    for hw_key in topo.get_hardware_keys():
-        model.add_constraint(model.y[hw_key] - psi_1[hw_key] >= 0.0, 
-                                'low_ceil_restriction_{}'.format(hw_key))
-        model.add_constraint(model.y[hw_key] - psi_1[hw_key] <= 1.0 - INTEGER_FEASIBILITY_TOLERANCE, 
-                                'high_ceil_restriction_{}'.format(hw_key))
-
-        ran_power_consumption.add_term(model.y[hw_key], static_power_consumptions[hw_key])
-
-    # Network Power Consumption and Capacity Constraint
-    link_usage_expressions = {}
-    for key in decision_var_keys:
+        # ---------- Network Link Usage ----------
         route = topo.get_route(key.route_id)
 
         for link_key in route.get_backhaul_links():
@@ -179,16 +169,28 @@ def build_eepran_model(topo: Topology, centralization_cap: int = 0) -> {Model, A
                 model.x[key],
                 drc_dict[key.drc_id].bandwidth_fh
             )
+
+    # ---------- RAN Power Consumption Definition ----------
+    ran_power_consumption.add(base_station_power_expression)
+    ran_power_consumption.add(dynamic_power_expression)
+    for hw_key in topo.get_hardware_keys():
+        model.add_constraint(model.y[hw_key] - psi_1[hw_key] >= 0.0, 
+                                'low_ceil_restriction_{}'.format(hw_key))
+        model.add_constraint(model.y[hw_key] - psi_1[hw_key] <= 1.0 - INTEGER_FEASIBILITY_TOLERANCE, 
+                                'high_ceil_restriction_{}'.format(hw_key))
+
+        ran_power_consumption.add_term(model.y[hw_key], static_power_consumptions[hw_key])
         
+    # ---------- Network Power Consumption Definition ----------
     net_power_consumption = model.linear_expr()
     for link_key, expression in link_usage_expressions.items():
         link = topo.get_link(link_key)
 
-        # Capacity Constraint
+        # ----- Link Capacity Constraint -----
         model.add_constraint(expression / link.port_capacity <= link.max_ports, 
-                                'qty_ports_link_{}'.format(link_key))
+                             'qty_ports_link_{}'.format(link_key))
 
-        # Network Power Consumption
+        # ----- Network Power Consumption -----
         is_node1_switch = 1 if link.is_node1_switch else 0
         is_node2_switch = 1 if link.is_node2_switch else 0
         net_power_consumption += (
@@ -197,127 +199,11 @@ def build_eepran_model(topo: Topology, centralization_cap: int = 0) -> {Model, A
                 (link.switch_port_power_consumption * (is_node1_switch + is_node2_switch))
             )
         )
-
-    # ----- Original -----
-    # # RAN Power Consumption
-    # ran_power_consumption = model.linear_expr()
-    # base_station_power_expression = model.linear_expr()
-    # dynamic_power_expression = model.linear_expr()
-    # for node_key in topo.get_node_keys():
-    #     node = topo.get_node(node_key)
-    #     qty_hardwares = len(node.get_hardware_keys())
-    #     dynamic_power_function = model.linear_expr()
-
-    #     # vBBU Power Consumption
-    #     for idx in range(qty_hardwares):
-    #         hw_id = node.get_hardware_type_identifiers()[idx]
-    #         hw_key = node.get_hardware_keys()[idx]
-    #         hw = topo.get_hardware_by_id(hw_id)
-    #         dynamic_power_consumption = hw.power_consumption * (1 - node.static_percentage)
-    #         psi_1 = model.linear_expr()
-        
-    #         for function in virtual_network_functions:
-    #             for key in decision_var_keys:
-    #                 if topo.get_route(key.route_id).contains(hw_key) and (
-    #                         (topo.get_route(key.route_id).is_cu(hw_key) and 
-    #                         function in drc_dict[key.drc_id].fs_cu) or
-    #                         (topo.get_route(key.route_id).is_du(hw_key) and 
-    #                         function in drc_dict[key.drc_id].fs_du)) :
-    #                     dynamic_power_function += (
-    #                         model.x[key] * vnf_cpu_usage[function] * 
-    #                         dynamic_power_consumption / hw.num_cpu_cores
-    #                     )
-
-    #                     if key == DecisionVariableKey(2, 6, 'node1_bs1'):
-    #                         print('----------------(!)--------------------')
-    #                         print((
-    #                         model.x[key] * vnf_cpu_usage[function] * 
-    #                         dynamic_power_consumption / hw.num_cpu_cores
-    #                         ))
-                        
-    #                 if topo.get_route(key.route_id).contains(hw_key) and (
-    #                         (topo.get_route(key.route_id).is_cu(hw_key) and 
-    #                         function in drc_dict[key.drc_id].fs_cu) or
-    #                         (topo.get_route(key.route_id).is_du(hw_key) and 
-    #                         function in drc_dict[key.drc_id].fs_du)):
-    #                     psi_1 += model.x[key] / maximum_centralization
-            
-    #         model.add_constraint(model.y[hw_key] - psi_1 >= 0.0, 
-    #                             'low_ceil_restriction_{}'.format(hw_key))
-    #         model.add_constraint(model.y[hw_key] - psi_1 <= 1.0 - INTEGER_FEASIBILITY_TOLERANCE, 
-    #                             'high_ceil_restriction_{}'.format(hw_key))
-
-    #         static_power_consumption = hw.power_consumption * node.static_percentage
-    #         ran_power_consumption += (model.y[hw_key] * static_power_consumption) 
-        
-    #     ran_power_consumption += dynamic_power_function
-    #     dynamic_power_expression += dynamic_power_function
-
-    #     # BS power Consumption
-    #     if node.has_base_station():
-    #         qty_base_stations = len(node.get_base_station_identifiers())
-    #         for idx in range(qty_base_stations):
-    #             base_station_id = node.get_base_station_identifiers()[idx]
-    #             base_station_key = node.get_base_station_keys()[idx]
-    #             base_station = topo.get_base_station(base_station_id)
-    #             bs_power_consumption = base_station.num_sectors * (
-    #                 (base_station.transmission_power / base_station.power_amplifier_efficiency) + 
-    #                 base_station.num_rf_chains * base_station.rf_chain_power_consumption +
-    #                 base_station.static_power_consumption 
-    #             )
-    #             for key in decision_var_keys:
-    #                 if not topo.get_route(key.route_id).is_destination(base_station_key):
-    #                     continue
-    #                 ran_power_consumption += model.sum(
-    #                     model.x[key] * (1.0 - drc_dict[key.drc_id].bs_relief) * bs_power_consumption 
-    #                 )
-    #                 base_station_power_expression += model.sum(
-    #                     model.x[key] * (1.0 - drc_dict[key.drc_id].bs_relief) * bs_power_consumption 
-    #                 )
     
-    # # Network Power Consumption and Capacity Constraint
-    # net_power_consumption = model.linear_expr()
-    # for link_key in topo.get_links():
-    #     link = topo.get_link(link_key)
-    #     link_usage = model.linear_expr()
-
-    #     link_usage += model.sum(
-    #         model.x[key] * drc_dict[key.drc_id].bandwidth_bh
-    #         for key in decision_var_keys 
-    #         if topo.get_route(key.route_id).is_backhaul(link_key)
-    #     ) 
-
-    #     link_usage += model.sum(
-    #         model.x[key] * drc_dict[key.drc_id].bandwidth_mh
-    #         for key in decision_var_keys 
-    #         if topo.get_route(key.route_id).is_midhaul(link_key)
-    #     )
-
-    #     link_usage += model.sum(
-    #         model.x[key] * drc_dict[key.drc_id].bandwidth_fh
-    #         for key in decision_var_keys 
-    #         if topo.get_route(key.route_id).is_fronthaul(link_key)
-    #     )
-
-    #     # Capacity Constraint
-    #     if not link_usage.equals(EMPTY_EXPR):
-    #         model.add_constraint(link_usage / link.port_capacity <= link.max_ports, 
-    #                             'qty_ports_link_{}'.format(link_key))
-
-    #     is_node1_switch = 1 if link.is_node1_switch else 0
-    #     is_node2_switch = 1 if link.is_node2_switch else 0
-
-    #     net_power_consumption += (
-    #         (link_usage / link.port_capacity) * (
-    #             (2 * link.pluggable_transceiver_power_consumption) +
-    #             (link.switch_port_power_consumption * (is_node1_switch + is_node2_switch))
-    #         )
-    #     )
-    
+    # --------- Objective Definition ----------
     model.minimize(ran_power_consumption + net_power_consumption)
 
     objective_function_end = time.time()
-
     logging.info('    Objective Definition: {}s'.format(objective_function_end - objective_function_start))
 
 
