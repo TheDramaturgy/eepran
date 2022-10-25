@@ -467,11 +467,12 @@ class Topology:
         routes = json.loads(json_input)
         self.__routes = []
         for route in routes:
+            fronthaul = [(link[0],link[1]) for link in route['fronthaul']]
+            midhaul = [(link[0],link[1]) for link in route['midhaul']]
+            backhaul = [(link[0],link[1]) for link in route['backhaul']]
             self.__routes += [Route(route['identifier'], route['source'], route['target'], 
-                                    route['sequence'], route['fronthaul'], route['midhaul'], 
-                                    route['backhaul'], route['delay_fronthaul'], 
+                                    route['sequence'], fronthaul, midhaul, 
+                                    backhaul, route['delay_fronthaul'], 
                                     route['delay_midhaul'], route['delay_backhaul'])]
         
-        for route in self.__routes:
-            print(str(route))
 

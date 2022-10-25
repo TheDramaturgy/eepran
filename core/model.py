@@ -214,49 +214,47 @@ def build_eepran_model(topo: Topology, centralization_cap: int = 0) -> {Model, A
     centralization_function_start = time.time()
 
     centralization = model.linear_expr()
-    for node_key in topo.get_node_keys():
-        node = topo.get_node(node_key)
-        if not node.has_hardware():
-            continue
+    vnf_count_expressions = {}
+    for key in decision_var_keys:
+        route = topo.get_route(key.route_id)
 
-        # Sums BS's running the same FS in a single CR
         for function in virtual_network_functions:
-            virtual_network_function_count = model.linear_expr()
+            if route.has_backhaul() and function in drc_dict[key.drc_id].fs_cu:
+                node_key = route.get_backhaul_node_key()
 
-            qty_hardwares = len(node.get_hardware_keys())
-            for idx in range(qty_hardwares):
-                hw_id = node.get_hardware_type_identifiers()[idx]
-                hw_key = node.get_hardware_keys()[idx]
-                hw = topo.get_hardware_by_id(hw_id)
+                vnf_count_expressions.setdefault(CeilVariableKey(node_key, function), 
+                                                 model.linear_expr()).add(model.x[key])
 
-                virtual_network_function_count += model.sum(
-                    model.x[key] for key in decision_var_keys
-                    if topo.get_route(key.route_id).contains(hw_key) and (
-                        (topo.get_route(key.route_id).is_cu(hw_key) and 
-                        function in drc_dict[key.drc_id].fs_cu) or
-                        (topo.get_route(key.route_id).is_du(hw_key) and 
-                        function in drc_dict[key.drc_id].fs_du)
-                    )
-                )
+            elif route.has_midhaul() and function in drc_dict[key.drc_id].fs_du:
+                node_key = route.get_midhaul_node_key()
 
-            ceil_var_key = CeilVariableKey(node_key, function)
+                vnf_count_expressions.setdefault(CeilVariableKey(node_key, function), 
+                                                 model.linear_expr()).add(model.x[key])
 
-            # Psi_2 Ceil Function Restriction
-            model.add_constraint(
-                model.z[ceil_var_key] - (virtual_network_function_count / maximum_centralization) >=
-                0.0, 'low_ceil_restriction_{}_{}'.format(node_key, function)
-            )
-            model.add_constraint(
-                model.z[ceil_var_key] - (virtual_network_function_count / maximum_centralization) <= 
-                1.0 - INTEGER_FEASIBILITY_TOLERANCE, 
-                'high_ceil_restriction_{}_{}'.format(node_key, function)
-            )
 
-            # centralization is calculated by CR (not by Hardware)
-            centralization += model.sum(virtual_network_function_count - model.z[ceil_var_key])
+    for key in ceil_var_keys:
+        if key in vnf_count_expressions.keys():
+            expression = vnf_count_expressions[key]
+        else:
+            expression = 0
+
+        # Psi_2 Ceil Function Restriction
+        model.add_constraint(
+            model.z[key] - (expression / maximum_centralization) >=
+            0.0, 'low_ceil_restriction_{}_{}'.format(key.node_key, key.function_key)
+        )
+        model.add_constraint(
+            model.z[key] - (expression / maximum_centralization) <= 
+            1.0 - INTEGER_FEASIBILITY_TOLERANCE, 
+            'high_ceil_restriction_{}_{}'.format(key.node_key, key.function_key)
+        )
+
+        # centralization is calculated by CR (not by Hardware)
+        centralization += model.sum(expression - model.z[key])
+    
     centralization_constraint = model.add_constraint(centralization >= centralization_cap, 
                                                      'centralization_constraint')
-    
+
     centralization_function_end = time.time()
     logging.info('    Centralization Definition: {}s'.format(centralization_function_end - centralization_function_start))
 
@@ -280,7 +278,9 @@ def build_eepran_model(topo: Topology, centralization_cap: int = 0) -> {Model, A
     # Define Link Capacity Constraint
     # -------------------------------
 
+    # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     # -> Defined in objective function
+    # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
     # capacity_expressions = {}
     # # define a expression for each link
@@ -313,7 +313,9 @@ def build_eepran_model(topo: Topology, centralization_cap: int = 0) -> {Model, A
     # Define Link Delay Constraint
     # ----------------------------
 
+    # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     # -> Granted by decision_var_keys definition
+    # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
     # delay on link must not exceed the drc requirements
     # for key in decision_var_keys:
@@ -330,54 +332,6 @@ def build_eepran_model(topo: Topology, centralization_cap: int = 0) -> {Model, A
     # ------------------------------
     # Processing Capacity Constraint
     # ------------------------------
-
-    # for cr in computing_core.cr_dict:
-    #     # Do not count the core
-    #     if cr == 0:
-    #         continue
-
-    #     hardware: Hardware
-    #     for hardware in computing_core.cr_dict[cr]:
-    #         # sums the load of all FS's running on the CR
-    #         processing_expression = model.linear_expr()
-    #         for fs in fs_list:
-    #             processing_expression += model.sum(model.x[key] * fs_list[fs]
-    #                                                for key in var_keys
-    #                                                if key.route.contains(hardware) and (
-    #                                                        (key.route.is_cu(hardware) and fs in key.drc.fs_cu) or
-    #                                                        (key.route.is_du(hardware) and fs in key.drc.fs_du) or
-    #                                                        (key.route.is_ru(hardware) and fs in key.drc.fs_ru)))
-    #         model.add_constraint(processing_expression <= hardware.cpu, 'processing capacity constraint')
-
-    # for node_key in topo.get_node_keys():
-    #     node = topo.get_node(node_key)
-    #     if not node.has_hardware():
-    #         continue
-
-    #     qty_hardwares = len(node.get_hardware_keys())
-    #     for idx in range(qty_hardwares):
-    #         hw_id = node.get_hardware_type_identifiers()[idx]
-    #         hw_key = node.get_hardware_keys()[idx]
-    #         hw = topo.get_hardware_by_id(hw_id)
-
-    #         # sums the load of all FS's running on the CR
-    #         processing_expression = model.linear_expr()
-    #         for function in virtual_network_functions:
-    #             processing_expression += model.sum(
-    #                 model.x[key] * vnf_cpu_usage[function]
-    #                 for key in decision_var_keys
-    #                 if (
-    #                     topo.get_route(key.route_id).contains(hw_key) and (
-    #                         (topo.get_route(key.route_id).is_cu(hw_key) and 
-    #                         function in drc_dict[key.drc_id].fs_cu) or
-    #                         (topo.get_route(key.route_id).is_du(hw_key) and 
-    #                         function in drc_dict[key.drc_id].fs_du)
-    #                     )
-    #                 )
-    #             )
-
-    #         model.add_constraint(processing_expression <= hw.num_cpu_cores, 
-    #                              'processing_capacity_{}'.format(hw_key))
 
     processing_function_start = time.time()
 
@@ -400,6 +354,10 @@ def build_eepran_model(topo: Topology, centralization_cap: int = 0) -> {Model, A
     processing_function_end = time.time()
     logging.info('    Processing Definition: {}s'.format(processing_function_end - processing_function_start))
     
-    model.export_as_lp('data/model.lp')
+    # ------------------------------
+    #         Model Export
+    # ------------------------------
+
+    model.export_as_lp('data/model_opt.lp')
 
     return model, centralization_constraint
